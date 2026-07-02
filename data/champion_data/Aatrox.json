@@ -1,0 +1,337 @@
+{
+  "id": "Aatrox",
+  "name_ja": "エイトロックス",
+  "patches": [
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1",
+      "updatetime": "2026/04/14",
+      "data": [
+        {
+          "lane": "TOP",
+          "rank": "Emerald",
+          "winrate": 48.7564,
+          "pickrate": 5.8275,
+          "banrate": 4.8850999999999996
+        },
+        {
+          "lane": "JG",
+          "rank": "Emerald",
+          "winrate": 44.3275,
+          "pickrate": 1.2524,
+          "banrate": 4.8850999999999996
+        },
+        {
+          "lane": "TOP",
+          "rank": "Diamond",
+          "winrate": 48.7164,
+          "pickrate": 6.4274,
+          "banrate": 2.395
+        },
+        {
+          "lane": "JG",
+          "rank": "Diamond",
+          "winrate": 44.9527,
+          "pickrate": 1.3027,
+          "banrate": 2.395
+        },
+        {
+          "lane": "TOP",
+          "rank": "Master",
+          "winrate": 47.9572,
+          "pickrate": 7.7757000000000005,
+          "banrate": 1.533
+        },
+        {
+          "lane": "JG",
+          "rank": "Master",
+          "winrate": 43.9941,
+          "pickrate": 1.7107,
+          "banrate": 1.533
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1b",
+      "updatetime": "2026/05/05",
+      "data": [
+        {
+          "lane": "TOP",
+          "rank": "Emerald",
+          "winrate": 48.7292,
+          "pickrate": 7.710500000000001,
+          "banrate": 7.2202
+        },
+        {
+          "lane": "JG",
+          "rank": "Emerald",
+          "winrate": 42.9425,
+          "pickrate": 1.7118000000000002,
+          "banrate": 7.2202
+        },
+        {
+          "lane": "TOP",
+          "rank": "Diamond",
+          "winrate": 48.623,
+          "pickrate": 7.554600000000001,
+          "banrate": 4.9715
+        },
+        {
+          "lane": "JG",
+          "rank": "Diamond",
+          "winrate": 44.2357,
+          "pickrate": 1.3674,
+          "banrate": 4.9715
+        },
+        {
+          "lane": "TOP",
+          "rank": "Master",
+          "winrate": 48.7303,
+          "pickrate": 7.6944,
+          "banrate": 5.3368
+        },
+        {
+          "lane": "JG",
+          "rank": "Master",
+          "winrate": 43.8673,
+          "pickrate": 1.3575,
+          "banrate": 5.3368
+        },
+        {
+          "lane": "TOP",
+          "rank": "Challenger",
+          "winrate": 49.1291,
+          "pickrate": 8.5805,
+          "banrate": 4.0316
+        },
+        {
+          "lane": "JG",
+          "rank": "Challenger",
+          "winrate": 46.402,
+          "pickrate": 1.5444,
+          "banrate": 4.0316
+        },
+        {
+          "lane": "TOP",
+          "rank": "Legendary_rank",
+          "winrate": 49.7525,
+          "pickrate": 10.2378,
+          "banrate": 4.2845
+        },
+        {
+          "lane": "JG",
+          "rank": "Legendary_rank",
+          "winrate": 44.8395,
+          "pickrate": 2.0147000000000004,
+          "banrate": 4.2845
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1d",
+      "updatetime": "2026/05/12",
+      "data": [
+        {
+          "lane": "TOP",
+          "rank": "Emerald",
+          "winrate": 48.6766,
+          "pickrate": 6.927,
+          "banrate": 7.5975
+        },
+        {
+          "lane": "JG",
+          "rank": "Emerald",
+          "winrate": 41.8392,
+          "pickrate": 1.7814,
+          "banrate": 7.5975
+        },
+        {
+          "lane": "TOP",
+          "rank": "Diamond",
+          "winrate": 48.6649,
+          "pickrate": 6.3179,
+          "banrate": 5.1854
+        },
+        {
+          "lane": "JG",
+          "rank": "Diamond",
+          "winrate": 42.446,
+          "pickrate": 1.1053,
+          "banrate": 5.1854
+        },
+        {
+          "lane": "TOP",
+          "rank": "Master",
+          "winrate": 48.8049,
+          "pickrate": 6.3911999999999995,
+          "banrate": 5.4181
+        },
+        {
+          "lane": "JG",
+          "rank": "Master",
+          "winrate": 42.8262,
+          "pickrate": 1.0747,
+          "banrate": 5.4181
+        },
+        {
+          "lane": "TOP",
+          "rank": "Challenger",
+          "winrate": 49.498999999999995,
+          "pickrate": 7.486,
+          "banrate": 3.698
+        },
+        {
+          "lane": "JG",
+          "rank": "Challenger",
+          "winrate": 42.1875,
+          "pickrate": 1.2002000000000002,
+          "banrate": 3.698
+        },
+        {
+          "lane": "TOP",
+          "rank": "Legendary_rank",
+          "winrate": 49.4815,
+          "pickrate": 8.7624,
+          "banrate": 4.2706
+        },
+        {
+          "lane": "JG",
+          "rank": "Legendary_rank",
+          "winrate": 45.642700000000005,
+          "pickrate": 1.5737999999999999,
+          "banrate": 4.2706
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1e",
+      "updatetime": "2026/05/26",
+      "data": [
+        {
+          "lane": "TOP",
+          "rank": "Emerald",
+          "winrate": 49.5552,
+          "pickrate": 7.156,
+          "banrate": 8.0989
+        },
+        {
+          "lane": "JG",
+          "rank": "Emerald",
+          "winrate": 43.184400000000004,
+          "pickrate": 1.5021,
+          "banrate": 8.0989
+        },
+        {
+          "lane": "TOP",
+          "rank": "Diamond",
+          "winrate": 48.456700000000005,
+          "pickrate": 6.3181,
+          "banrate": 5.327
+        },
+        {
+          "lane": "TOP",
+          "rank": "Master",
+          "winrate": 48.3649,
+          "pickrate": 6.3481,
+          "banrate": 5.4153
+        },
+        {
+          "lane": "TOP",
+          "rank": "Challenger",
+          "winrate": 48.0966,
+          "pickrate": 7.148599999999999,
+          "banrate": 4.2109
+        },
+        {
+          "lane": "JG",
+          "rank": "Challenger",
+          "winrate": 45.6338,
+          "pickrate": 1.0787,
+          "banrate": 4.021199999999999
+        },
+        {
+          "lane": "TOP",
+          "rank": "Legendary_rank",
+          "winrate": 50.4594,
+          "pickrate": 9.0101,
+          "banrate": 4.0514
+        },
+        {
+          "lane": "JG",
+          "rank": "Legendary_rank",
+          "winrate": 45.0904,
+          "pickrate": 1.2087999999999999,
+          "banrate": 4.0514
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1f",
+      "updatetime": "2026/06/12",
+      "data": [
+        {
+          "lane": "TOP",
+          "rank": "Emerald",
+          "winrate": 49.6242,
+          "pickrate": 7.4296,
+          "banrate": 10.3977
+        },
+        {
+          "lane": "JG",
+          "rank": "Emerald",
+          "winrate": 45.6731,
+          "pickrate": 1.8147,
+          "banrate": 10.3977
+        },
+        {
+          "lane": "TOP",
+          "rank": "Diamond",
+          "winrate": 49.119299999999996,
+          "pickrate": 6.5222,
+          "banrate": 6.4142
+        },
+        {
+          "lane": "TOP",
+          "rank": "Master",
+          "winrate": 49.2991,
+          "pickrate": 6.4927,
+          "banrate": 6.420299999999999
+        },
+        {
+          "lane": "TOP",
+          "rank": "Challenger",
+          "winrate": 50.8,
+          "pickrate": 7.030200000000001,
+          "banrate": 4.9592
+        },
+        {
+          "lane": "JG",
+          "rank": "Challenger",
+          "winrate": 45.427499999999995,
+          "pickrate": 1.042,
+          "banrate": 4.5516000000000005
+        },
+        {
+          "lane": "TOP",
+          "rank": "Legendary_rank",
+          "winrate": 51.018600000000006,
+          "pickrate": 8.7347,
+          "banrate": 4.9527
+        },
+        {
+          "lane": "JG",
+          "rank": "Legendary_rank",
+          "winrate": 48.2587,
+          "pickrate": 1.2550000000000001,
+          "banrate": 4.9527
+        },
+        {
+          "lane": "JG",
+          "rank": "Diamond",
+          "winrate": 44.675399999999996,
+          "pickrate": 1.001,
+          "banrate": 6.3682
+        }
+      ]
+    }
+  ]
+}

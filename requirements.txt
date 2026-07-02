@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+chromedriver-autoinstaller
+google-genai
+boto3
+python-dotenv

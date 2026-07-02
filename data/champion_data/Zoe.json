@@ -1,0 +1,169 @@
+{
+  "id": "Zoe",
+  "name_ja": "ゾーイ",
+  "patches": [
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1",
+      "updatetime": "2026/04/14",
+      "data": [
+        {
+          "lane": "MID",
+          "rank": "Emerald",
+          "winrate": 39.5762,
+          "pickrate": 2.2575000000000003,
+          "banrate": 0.1742
+        },
+        {
+          "lane": "MID",
+          "rank": "Diamond",
+          "winrate": 43.9467,
+          "pickrate": 1.7676999999999998,
+          "banrate": 0.2088
+        },
+        {
+          "lane": "MID",
+          "rank": "Master",
+          "winrate": 48.4156,
+          "pickrate": 1.7107,
+          "banrate": 0.3542
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1b",
+      "updatetime": "2026/05/05",
+      "data": [
+        {
+          "lane": "MID",
+          "rank": "Emerald",
+          "winrate": 41.6723,
+          "pickrate": 1.1577,
+          "banrate": 0.20539999999999997
+        },
+        {
+          "lane": "MID",
+          "rank": "Diamond",
+          "winrate": 43.9535,
+          "pickrate": 1.1367,
+          "banrate": 0.23570000000000002
+        },
+        {
+          "lane": "MID",
+          "rank": "Master",
+          "winrate": 44.957,
+          "pickrate": 1.0385,
+          "banrate": 0.314
+        },
+        {
+          "lane": "MID",
+          "rank": "Legendary_rank",
+          "winrate": 51.1111,
+          "pickrate": 1.2581,
+          "banrate": 0.3932
+        },
+        {
+          "lane": "MID",
+          "rank": "Challenger",
+          "winrate": 52.0,
+          "pickrate": 1.0654000000000001,
+          "banrate": 0.17049999999999998
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1d",
+      "updatetime": "2026/05/12",
+      "data": [
+        {
+          "lane": "MID",
+          "rank": "Emerald",
+          "winrate": 41.641,
+          "pickrate": 1.0578,
+          "banrate": 0.1823
+        },
+        {
+          "lane": "MID",
+          "rank": "Challenger",
+          "winrate": 49.635,
+          "pickrate": 1.0276,
+          "banrate": 0.22690000000000002
+        },
+        {
+          "lane": "MID",
+          "rank": "Legendary_rank",
+          "winrate": 50.306700000000006,
+          "pickrate": 1.1178000000000001,
+          "banrate": 0.39769999999999994
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1e",
+      "updatetime": "2026/05/26",
+      "data": [
+        {
+          "lane": "MID",
+          "rank": "Emerald",
+          "winrate": 40.9673,
+          "pickrate": 1.2096,
+          "banrate": 0.2443
+        },
+        {
+          "lane": "MID",
+          "rank": "Legendary_rank",
+          "winrate": 48.1844,
+          "pickrate": 1.1183,
+          "banrate": 0.2718
+        },
+        {
+          "lane": "MID",
+          "rank": "Challenger",
+          "winrate": 50.781299999999995,
+          "pickrate": 1.0372,
+          "banrate": 0.1925
+        }
+      ]
+    },
+    {
+      "patch_name": "ワイルドリフト パッチノート 7.1f",
+      "updatetime": "2026/06/12",
+      "data": [
+        {
+          "lane": "MID",
+          "rank": "Emerald",
+          "winrate": 43.993900000000004,
+          "pickrate": 2.2805,
+          "banrate": 0.3542
+        },
+        {
+          "lane": "MID",
+          "rank": "Legendary_rank",
+          "winrate": 50.8003,
+          "pickrate": 2.243,
+          "banrate": 0.9599
+        },
+        {
+          "lane": "MID",
+          "rank": "Diamond",
+          "winrate": 44.757200000000005,
+          "pickrate": 2.0838,
+          "banrate": 0.45999999999999996
+        },
+        {
+          "lane": "MID",
+          "rank": "Master",
+          "winrate": 45.102599999999995,
+          "pickrate": 2.0535,
+          "banrate": 0.4842
+        },
+        {
+          "lane": "MID",
+          "rank": "Challenger",
+          "winrate": 47.7909,
+          "pickrate": 2.2138999999999998,
+          "banrate": 0.6483
+        }
+      ]
+    }
+  ]
+}

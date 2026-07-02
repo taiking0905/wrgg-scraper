@@ -1,0 +1,7892 @@
+[
+  {
+    "id": "Viktor",
+    "name_ja": "ビクター",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 55.4105,
+        "pickrate": 3.2087999999999997,
+        "banrate": 1.8792
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.0794,
+        "pickrate": 4.972300000000001,
+        "banrate": 1.1075
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.9466,
+        "pickrate": 5.069,
+        "banrate": 1.098
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.153099999999995,
+        "pickrate": 4.6891,
+        "banrate": 0.6179
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.8411,
+        "pickrate": 4.9106,
+        "banrate": 0.41359999999999997
+      }
+    ]
+  },
+  {
+    "id": "Zyra",
+    "name_ja": "ザイラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 54.795899999999996,
+        "pickrate": 1.71,
+        "banrate": 14.963999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.337900000000005,
+        "pickrate": 3.8474,
+        "banrate": 14.963999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.26460000000001,
+        "pickrate": 2.839,
+        "banrate": 24.8128
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.794799999999995,
+        "pickrate": 4.6415,
+        "banrate": 24.8128
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 52.2896,
+        "pickrate": 2.9257999999999997,
+        "banrate": 25.6843
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.57899999999999,
+        "pickrate": 4.605,
+        "banrate": 25.6843
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 53.0164,
+        "pickrate": 2.8464,
+        "banrate": 18.2974
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.1049,
+        "pickrate": 3.8853999999999997,
+        "banrate": 18.2974
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.6102,
+        "pickrate": 2.2024,
+        "banrate": 10.406500000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 49.938,
+        "pickrate": 3.7789,
+        "banrate": 10.406500000000001
+      }
+    ]
+  },
+  {
+    "id": "Aurora",
+    "name_ja": "オーロラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 54.18579999999999,
+        "pickrate": 1.8967,
+        "banrate": 2.0258000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.6301,
+        "pickrate": 2.4885,
+        "banrate": 6.589799999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.5294,
+        "pickrate": 2.5881000000000003,
+        "banrate": 7.2579
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.931799999999996,
+        "pickrate": 3.2051000000000003,
+        "banrate": 10.038
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.4243,
+        "pickrate": 4.1645,
+        "banrate": 9.9991
+      }
+    ]
+  },
+  {
+    "id": "Ryze",
+    "name_ja": "ライズ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 53.97260000000001,
+        "pickrate": 3.8213,
+        "banrate": 2.0781
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 53.98349999999999,
+        "pickrate": 1.2703,
+        "banrate": 2.0781
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.295199999999994,
+        "pickrate": 5.2231,
+        "banrate": 3.6949
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.291,
+        "pickrate": 1.548,
+        "banrate": 3.6949
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.190400000000004,
+        "pickrate": 5.3438,
+        "banrate": 4.0073
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.9223,
+        "pickrate": 1.5498,
+        "banrate": 4.0073
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.143899999999995,
+        "pickrate": 6.413399999999999,
+        "banrate": 5.8021
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.165499999999994,
+        "pickrate": 1.3754,
+        "banrate": 5.8021
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.775800000000004,
+        "pickrate": 7.9106,
+        "banrate": 9.0875
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 45.5405,
+        "pickrate": 1.1551,
+        "banrate": 9.0875
+      }
+    ]
+  },
+  {
+    "id": "Taliyah",
+    "name_ja": "タリヤ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 53.9269,
+        "pickrate": 5.1543,
+        "banrate": 8.4748
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 55.3206,
+        "pickrate": 2.476,
+        "banrate": 8.4748
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.300000000000004,
+        "pickrate": 4.7406999999999995,
+        "banrate": 41.076299999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 54.055,
+        "pickrate": 2.0448,
+        "banrate": 41.076299999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 52.5712,
+        "pickrate": 4.5898,
+        "banrate": 45.266600000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 54.0872,
+        "pickrate": 2.0276,
+        "banrate": 45.266600000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 52.6467,
+        "pickrate": 4.5375,
+        "banrate": 59.1367
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 53.2577,
+        "pickrate": 2.2019,
+        "banrate": 59.1367
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 55.17809999999999,
+        "pickrate": 3.8133,
+        "banrate": 67.73169999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 55.235,
+        "pickrate": 1.8934,
+        "banrate": 67.73169999999999
+      }
+    ]
+  },
+  {
+    "id": "Brand",
+    "name_ja": "ブランド",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 53.2022,
+        "pickrate": 8.337,
+        "banrate": 9.6439
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.4578,
+        "pickrate": 3.4112000000000005,
+        "banrate": 9.6439
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.2392,
+        "pickrate": 11.245800000000001,
+        "banrate": 9.3781
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.9771,
+        "pickrate": 2.8262,
+        "banrate": 9.3781
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 52.1383,
+        "pickrate": 11.4495,
+        "banrate": 9.5016
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.9212,
+        "pickrate": 2.7426,
+        "banrate": 9.5016
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 52.1335,
+        "pickrate": 10.6341,
+        "banrate": 5.8389999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 48.9017,
+        "pickrate": 1.9790999999999999,
+        "banrate": 5.8389999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.954699999999995,
+        "pickrate": 8.3383,
+        "banrate": 3.3933999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 50.0,
+        "pickrate": 1.5796000000000001,
+        "banrate": 3.3933999999999997
+      }
+    ]
+  },
+  {
+    "id": "Swain",
+    "name_ja": "スウェイン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 52.581500000000005,
+        "pickrate": 2.5684,
+        "banrate": 4.7757000000000005
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.44800000000001,
+        "pickrate": 5.0636,
+        "banrate": 4.7757000000000005
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.7932,
+        "pickrate": 3.0349999999999997,
+        "banrate": 3.5162
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.744899999999994,
+        "pickrate": 4.4199,
+        "banrate": 3.5162
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 52.958099999999995,
+        "pickrate": 3.1437,
+        "banrate": 3.4054
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.5446,
+        "pickrate": 4.247,
+        "banrate": 3.4054
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 52.840399999999995,
+        "pickrate": 3.8072000000000004,
+        "banrate": 2.0987
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 48.4977,
+        "pickrate": 3.2013,
+        "banrate": 2.0987
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 53.784200000000006,
+        "pickrate": 3.8773,
+        "banrate": 1.6904
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 47.126400000000004,
+        "pickrate": 3.3949,
+        "banrate": 1.6904
+      }
+    ]
+  },
+  {
+    "id": "Veigar",
+    "name_ja": "ベイガー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 52.316700000000004,
+        "pickrate": 13.180700000000002,
+        "banrate": 10.7745
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 48.0578,
+        "pickrate": 5.4353,
+        "banrate": 10.7745
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.3373,
+        "pickrate": 11.3171,
+        "banrate": 15.1958
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 48.234500000000004,
+        "pickrate": 3.7467,
+        "banrate": 15.1958
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.2834,
+        "pickrate": 11.2023,
+        "banrate": 15.631
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 48.2114,
+        "pickrate": 3.5061,
+        "banrate": 15.631
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 50.782799999999995,
+        "pickrate": 10.1005,
+        "banrate": 10.3157
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 47.3735,
+        "pickrate": 2.2345,
+        "banrate": 10.3157
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.239999999999995,
+        "pickrate": 7.8045,
+        "banrate": 6.309099999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 45.5616,
+        "pickrate": 1.7232,
+        "banrate": 6.309099999999999
+      }
+    ]
+  },
+  {
+    "id": "Galio",
+    "name_ja": "ガリオ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.8765,
+        "pickrate": 8.1363,
+        "banrate": 2.024
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 52.6652,
+        "pickrate": 3.2734,
+        "banrate": 2.024
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.785599999999995,
+        "pickrate": 10.5914,
+        "banrate": 2.1176
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 53.40200000000001,
+        "pickrate": 3.5071,
+        "banrate": 2.1176
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.8103,
+        "pickrate": 10.806799999999999,
+        "banrate": 2.2113
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 53.601200000000006,
+        "pickrate": 3.4941,
+        "banrate": 2.2113
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.0211,
+        "pickrate": 11.1226,
+        "banrate": 2.0791
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 54.2416,
+        "pickrate": 3.1708,
+        "banrate": 2.0791
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.5935,
+        "pickrate": 10.9434,
+        "banrate": 2.4927
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 53.4135,
+        "pickrate": 5.19,
+        "banrate": 2.4927
+      }
+    ]
+  },
+  {
+    "id": "Lux",
+    "name_ja": "ラックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.6312,
+        "pickrate": 7.059699999999999,
+        "banrate": 17.3178
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.421899999999994,
+        "pickrate": 12.406,
+        "banrate": 17.3178
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.71489999999999,
+        "pickrate": 7.775799999999999,
+        "banrate": 18.465
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.8855,
+        "pickrate": 9.4125,
+        "banrate": 18.465
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.4798,
+        "pickrate": 7.889200000000001,
+        "banrate": 18.4442
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.736200000000004,
+        "pickrate": 9.0794,
+        "banrate": 18.4442
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.9138,
+        "pickrate": 7.253,
+        "banrate": 9.5946
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.803,
+        "pickrate": 7.032299999999999,
+        "banrate": 9.5946
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.350500000000004,
+        "pickrate": 4.684200000000001,
+        "banrate": 6.2061
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.1956,
+        "pickrate": 6.704000000000001,
+        "banrate": 6.2061
+      }
+    ]
+  },
+  {
+    "id": "Orianna",
+    "name_ja": "オリアナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.512,
+        "pickrate": 3.4042000000000003,
+        "banrate": 0.2268
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.757,
+        "pickrate": 3.3274,
+        "banrate": 0.1577
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.756299999999996,
+        "pickrate": 3.2969999999999997,
+        "banrate": 0.1605
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.00710000000001,
+        "pickrate": 3.5072,
+        "banrate": 0.1011
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.5455,
+        "pickrate": 4.1208,
+        "banrate": 0.12639999999999998
+      }
+    ]
+  },
+  {
+    "id": "Aurelionsol",
+    "name_ja": "オレリオン・ソル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.44,
+        "pickrate": 5.6952,
+        "banrate": 0.9998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.963499999999996,
+        "pickrate": 7.220899999999999,
+        "banrate": 3.4329
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.91250000000001,
+        "pickrate": 7.4588,
+        "banrate": 3.7934
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 50.285199999999996,
+        "pickrate": 9.1457,
+        "banrate": 5.0663
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.766,
+        "pickrate": 9.672799999999999,
+        "banrate": 4.460999999999999
+      }
+    ]
+  },
+  {
+    "id": "Nasus",
+    "name_ja": "ナサス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.3057,
+        "pickrate": 1.1359,
+        "banrate": 1.4971
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.8408,
+        "pickrate": 8.2201,
+        "banrate": 1.4971
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.2801,
+        "pickrate": 1.6611999999999998,
+        "banrate": 4.6806
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.7545,
+        "pickrate": 9.184000000000001,
+        "banrate": 4.6806
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.2093,
+        "pickrate": 1.7286,
+        "banrate": 5.1226
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.7691,
+        "pickrate": 9.2322,
+        "banrate": 5.1226
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.6464,
+        "pickrate": 2.1454,
+        "banrate": 6.248200000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 49.9134,
+        "pickrate": 8.7892,
+        "banrate": 6.248200000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.8568,
+        "pickrate": 2.5505,
+        "banrate": 4.9761
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.2014,
+        "pickrate": 7.036499999999999,
+        "banrate": 4.9761
+      }
+    ]
+  },
+  {
+    "id": "Zed",
+    "name_ja": "ゼド",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.296299999999995,
+        "pickrate": 4.7111,
+        "banrate": 1.3732
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.7042,
+        "pickrate": 1.6105,
+        "banrate": 1.3732
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.5309,
+        "pickrate": 4.3282,
+        "banrate": 1.6459000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 47.976400000000005,
+        "pickrate": 1.9852999999999998,
+        "banrate": 1.6459000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.6273,
+        "pickrate": 4.3164,
+        "banrate": 1.7587
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.0364,
+        "pickrate": 2.062,
+        "banrate": 1.7587
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.27310000000001,
+        "pickrate": 4.6951,
+        "banrate": 2.3394000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.6145,
+        "pickrate": 2.7062,
+        "banrate": 2.3394000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.0126,
+        "pickrate": 6.1858,
+        "banrate": 4.6171
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 46.6131,
+        "pickrate": 4.078600000000001,
+        "banrate": 4.6171
+      }
+    ]
+  },
+  {
+    "id": "Kassadin",
+    "name_ja": "カサディン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 51.061,
+        "pickrate": 1.3155999999999999,
+        "banrate": 0.08549999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.3892,
+        "pickrate": 1.8748,
+        "banrate": 0.3648
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.543099999999995,
+        "pickrate": 1.9251999999999998,
+        "banrate": 0.40590000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 52.1192,
+        "pickrate": 2.5898999999999996,
+        "banrate": 0.6939
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 53.797200000000004,
+        "pickrate": 3.4324,
+        "banrate": 1.2706
+      }
+    ]
+  },
+  {
+    "id": "Vex",
+    "name_ja": "ヴェックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.93299999999999,
+        "pickrate": 2.5248,
+        "banrate": 0.6247
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.2678,
+        "pickrate": 2.7287,
+        "banrate": 0.6832
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.2149,
+        "pickrate": 2.7464,
+        "banrate": 0.7132000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.7664,
+        "pickrate": 2.5329,
+        "banrate": 0.4586
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.3449,
+        "pickrate": 2.6113999999999997,
+        "banrate": 0.3262
+      }
+    ]
+  },
+  {
+    "id": "Kayle",
+    "name_ja": "ケイル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.903600000000004,
+        "pickrate": 2.3172,
+        "banrate": 0.7712
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.3064,
+        "pickrate": 5.1421,
+        "banrate": 0.7712
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.942699999999995,
+        "pickrate": 1.4912,
+        "banrate": 0.7166
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.7815,
+        "pickrate": 4.017600000000001,
+        "banrate": 0.7166
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.9548,
+        "pickrate": 1.4394,
+        "banrate": 0.7091000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.6365,
+        "pickrate": 3.8871999999999995,
+        "banrate": 0.7091000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.0902,
+        "pickrate": 1.314,
+        "banrate": 0.3353
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.9413,
+        "pickrate": 2.9442,
+        "banrate": 0.3353
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.0956,
+        "pickrate": 1.6327,
+        "banrate": 0.36210000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.5022,
+        "pickrate": 2.4490000000000003,
+        "banrate": 0.36210000000000003
+      }
+    ]
+  },
+  {
+    "id": "Syndra",
+    "name_ja": "シンドラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.8494,
+        "pickrate": 3.0814,
+        "banrate": 2.3310999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.3983,
+        "pickrate": 4.4593,
+        "banrate": 2.6727999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.275400000000005,
+        "pickrate": 4.565799999999999,
+        "banrate": 2.8096
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.018499999999996,
+        "pickrate": 4.6506,
+        "banrate": 2.6002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.1875,
+        "pickrate": 5.3788,
+        "banrate": 2.6036
+      }
+    ]
+  },
+  {
+    "id": "Teemo",
+    "name_ja": "ティーモ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.677499999999995,
+        "pickrate": 1.9316,
+        "banrate": 15.4368
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 53.593900000000005,
+        "pickrate": 4.151,
+        "banrate": 15.4368
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 50.9132,
+        "pickrate": 1.6330999999999998,
+        "banrate": 19.9445
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.2142,
+        "pickrate": 3.9381,
+        "banrate": 19.9445
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.0206,
+        "pickrate": 1.5965,
+        "banrate": 20.0317
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 52.216300000000004,
+        "pickrate": 3.832,
+        "banrate": 20.0317
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 50.9063,
+        "pickrate": 1.439,
+        "banrate": 11.837200000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.3794,
+        "pickrate": 3.2502000000000004,
+        "banrate": 11.837200000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.8371,
+        "pickrate": 1.5717999999999999,
+        "banrate": 6.7992
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.1386,
+        "pickrate": 2.4319,
+        "banrate": 6.7992
+      }
+    ]
+  },
+  {
+    "id": "Lissandra",
+    "name_ja": "リサンドラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.32600000000001,
+        "pickrate": 2.9436,
+        "banrate": 2.2264
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.4007,
+        "pickrate": 4.4172,
+        "banrate": 4.9598
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.3315,
+        "pickrate": 4.5549,
+        "banrate": 5.3900999999999994
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.097,
+        "pickrate": 5.3559,
+        "banrate": 6.9242
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.36429999999999,
+        "pickrate": 5.5693,
+        "banrate": 7.2097999999999995
+      }
+    ]
+  },
+  {
+    "id": "Smolder",
+    "name_ja": "スモルダー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.2252,
+        "pickrate": 1.5494,
+        "banrate": 10.8862
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.1228,
+        "pickrate": 1.4919,
+        "banrate": 10.8862
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 52.81550000000001,
+        "pickrate": 12.0849,
+        "banrate": 10.8862
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.090999999999994,
+        "pickrate": 1.0073,
+        "banrate": 15.329999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 52.5398,
+        "pickrate": 13.025,
+        "banrate": 15.329999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 52.64149999999999,
+        "pickrate": 13.3437,
+        "banrate": 16.1546
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 52.6456,
+        "pickrate": 17.3051,
+        "banrate": 19.0625
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 53.197,
+        "pickrate": 20.994,
+        "banrate": 27.8385
+      }
+    ]
+  },
+  {
+    "id": "Velkoz",
+    "name_ja": "ヴェル＝コズ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.177899999999994,
+        "pickrate": 2.4515,
+        "banrate": 0.4816
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 48.5222,
+        "pickrate": 1.4168,
+        "banrate": 0.4816
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.620599999999996,
+        "pickrate": 3.4042000000000003,
+        "banrate": 0.7437
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.816700000000004,
+        "pickrate": 1.7212999999999998,
+        "banrate": 0.7437
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.7168,
+        "pickrate": 3.4579,
+        "banrate": 0.7886000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.1741,
+        "pickrate": 1.6963,
+        "banrate": 0.7886000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 50.269200000000005,
+        "pickrate": 2.9274,
+        "banrate": 0.4184
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.5808,
+        "pickrate": 1.2547000000000001,
+        "banrate": 0.4184
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.600100000000005,
+        "pickrate": 2.1742999999999997,
+        "banrate": 0.1701
+      }
+    ]
+  },
+  {
+    "id": "Mel",
+    "name_ja": "メル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.1719,
+        "pickrate": 13.705899999999998,
+        "banrate": 40.8491
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 52.6496,
+        "pickrate": 1.0207000000000002,
+        "banrate": 40.8491
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.6834,
+        "pickrate": 9.5988,
+        "banrate": 75.9566
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.3669,
+        "pickrate": 8.979800000000001,
+        "banrate": 78.7269
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 47.3226,
+        "pickrate": 8.3724,
+        "banrate": 80.7299
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.4154,
+        "pickrate": 6.944400000000001,
+        "banrate": 79.6397
+      }
+    ]
+  },
+  {
+    "id": "Ahri",
+    "name_ja": "アーリ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.0853,
+        "pickrate": 6.1349,
+        "banrate": 0.3176
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.69010000000001,
+        "pickrate": 4.9272,
+        "banrate": 0.1127
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.757600000000004,
+        "pickrate": 4.9072,
+        "banrate": 0.1065
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 51.4799,
+        "pickrate": 4.6266,
+        "banrate": 0.054299999999999994
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.7208,
+        "pickrate": 4.8980999999999995,
+        "banrate": 0.0375
+      }
+    ]
+  },
+  {
+    "id": "Twistedfate",
+    "name_ja": "ツイステッド・フェイト",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 50.0513,
+        "pickrate": 3.399,
+        "banrate": 0.2059
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 52.273599999999995,
+        "pickrate": 4.8679,
+        "banrate": 0.388
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 52.1979,
+        "pickrate": 5.0436000000000005,
+        "banrate": 0.4261
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 52.7521,
+        "pickrate": 6.6937999999999995,
+        "banrate": 0.7271
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 53.6871,
+        "pickrate": 8.6786,
+        "banrate": 1.3595
+      }
+    ]
+  },
+  {
+    "id": "Morgana",
+    "name_ja": "モルガナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 49.8016,
+        "pickrate": 3.5176,
+        "banrate": 18.2548
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.2471,
+        "pickrate": 5.2957,
+        "banrate": 18.2548
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.768899999999995,
+        "pickrate": 6.026800000000001,
+        "banrate": 26.9664
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.227599999999995,
+        "pickrate": 6.3655,
+        "banrate": 26.9664
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.7486,
+        "pickrate": 6.1796,
+        "banrate": 28.125099999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.0091,
+        "pickrate": 6.3334,
+        "banrate": 28.125099999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 50.7744,
+        "pickrate": 5.8243,
+        "banrate": 27.193099999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.1759,
+        "pickrate": 6.0249,
+        "banrate": 27.193099999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.4007,
+        "pickrate": 5.0635,
+        "banrate": 28.0476
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 50.5912,
+        "pickrate": 8.0526,
+        "banrate": 28.0476
+      }
+    ]
+  },
+  {
+    "id": "Yasuo",
+    "name_ja": "ヤスオ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 49.723800000000004,
+        "pickrate": 16.422700000000003,
+        "banrate": 9.6194
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 48.9899,
+        "pickrate": 3.8003,
+        "banrate": 9.6194
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.5543,
+        "pickrate": 11.7521,
+        "banrate": 12.515899999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 47.647,
+        "pickrate": 2.9659,
+        "banrate": 12.515899999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.430499999999995,
+        "pickrate": 11.4201,
+        "banrate": 13.0943
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 47.382600000000004,
+        "pickrate": 2.9273000000000002,
+        "banrate": 13.0943
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.3889,
+        "pickrate": 10.5912,
+        "banrate": 11.6965
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 47.836800000000004,
+        "pickrate": 2.8638,
+        "banrate": 11.6965
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.5359,
+        "pickrate": 11.300799999999999,
+        "banrate": 14.1557
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 47.8866,
+        "pickrate": 3.1390000000000002,
+        "banrate": 14.1557
+      }
+    ]
+  },
+  {
+    "id": "Fizz",
+    "name_ja": "フィズ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 49.6344,
+        "pickrate": 3.8177999999999996,
+        "banrate": 6.7526
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.1092,
+        "pickrate": 2.3956999999999997,
+        "banrate": 6.7526
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.547000000000004,
+        "pickrate": 2.9221,
+        "banrate": 3.9876
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.1335,
+        "pickrate": 3.5066,
+        "banrate": 3.9876
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.4979,
+        "pickrate": 2.8763,
+        "banrate": 3.9971
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.9903,
+        "pickrate": 3.6398,
+        "banrate": 3.9971
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.1405,
+        "pickrate": 2.6448,
+        "banrate": 2.6834000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 50.5737,
+        "pickrate": 3.7886999999999995,
+        "banrate": 2.6834000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.556400000000004,
+        "pickrate": 2.4631,
+        "banrate": 1.9886000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.0293,
+        "pickrate": 4.1005,
+        "banrate": 1.9886000000000001
+      }
+    ]
+  },
+  {
+    "id": "Norra",
+    "name_ja": "ノラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 49.290299999999995,
+        "pickrate": 2.7045,
+        "banrate": 13.1127
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.104000000000006,
+        "pickrate": 2.1783,
+        "banrate": 49.162800000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.4466,
+        "pickrate": 1.0227,
+        "banrate": 49.162800000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 50.857,
+        "pickrate": 2.1318,
+        "banrate": 53.880399999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.105,
+        "pickrate": 1.019,
+        "banrate": 53.880399999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.5908,
+        "pickrate": 1.9922,
+        "banrate": 64.4084
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.52910000000001,
+        "pickrate": 2.0416,
+        "banrate": 62.4184
+      }
+    ]
+  },
+  {
+    "id": "Diana",
+    "name_ja": "ダイアナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 48.4512,
+        "pickrate": 2.1968,
+        "banrate": 0.2949
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 52.9529,
+        "pickrate": 2.6294999999999997,
+        "banrate": 0.2949
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.3164,
+        "pickrate": 2.4371,
+        "banrate": 0.29109999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.897400000000005,
+        "pickrate": 3.7609999999999997,
+        "banrate": 0.29109999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.2464,
+        "pickrate": 2.431,
+        "banrate": 0.3035
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.7344,
+        "pickrate": 3.8551,
+        "banrate": 0.3035
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.4718,
+        "pickrate": 2.2758000000000003,
+        "banrate": 0.3141
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 50.331199999999995,
+        "pickrate": 4.1838,
+        "banrate": 0.3141
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 46.4561,
+        "pickrate": 2.026,
+        "banrate": 0.5276000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.0083,
+        "pickrate": 4.4891,
+        "banrate": 0.5276000000000001
+      }
+    ]
+  },
+  {
+    "id": "Ziggs",
+    "name_ja": "ジグス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 48.2348,
+        "pickrate": 4.3988,
+        "banrate": 1.9890999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.4683,
+        "pickrate": 6.6565,
+        "banrate": 2.5245
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.5003,
+        "pickrate": 6.8676,
+        "banrate": 2.6555
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.403200000000005,
+        "pickrate": 6.5107,
+        "banrate": 1.7498
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 47.2214,
+        "pickrate": 5.5334,
+        "banrate": 0.757
+      }
+    ]
+  },
+  {
+    "id": "Katarina",
+    "name_ja": "カタリナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 48.1773,
+        "pickrate": 1.771,
+        "banrate": 0.7398
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.0325,
+        "pickrate": 1.4072,
+        "banrate": 0.35040000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.1156,
+        "pickrate": 1.3844,
+        "banrate": 0.346
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.5303,
+        "pickrate": 1.5042,
+        "banrate": 0.21359999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.996,
+        "pickrate": 1.5546,
+        "banrate": 0.2295
+      }
+    ]
+  },
+  {
+    "id": "Yone",
+    "name_ja": "ヨネ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 48.0423,
+        "pickrate": 6.105300000000001,
+        "banrate": 4.1929
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.0436,
+        "pickrate": 6.004099999999999,
+        "banrate": 4.1929
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 47.346199999999996,
+        "pickrate": 2.8930000000000002,
+        "banrate": 4.1929
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.2915,
+        "pickrate": 3.9385000000000003,
+        "banrate": 4.7844999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.372099999999996,
+        "pickrate": 5.3689,
+        "banrate": 4.7844999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 48.5999,
+        "pickrate": 2.2934,
+        "banrate": 4.7844999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.3549,
+        "pickrate": 3.7619,
+        "banrate": 4.9709
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.4216,
+        "pickrate": 5.3293,
+        "banrate": 4.9709
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.428,
+        "pickrate": 2.2720000000000002,
+        "banrate": 4.9709
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.6922,
+        "pickrate": 3.4072,
+        "banrate": 3.4811
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.477199999999996,
+        "pickrate": 5.1244,
+        "banrate": 3.4811
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.4503,
+        "pickrate": 2.1916,
+        "banrate": 3.4811
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 46.874,
+        "pickrate": 4.8185,
+        "banrate": 3.4714
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.4126,
+        "pickrate": 6.4309,
+        "banrate": 3.4714
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 47.7528,
+        "pickrate": 2.7784,
+        "banrate": 3.4714
+      }
+    ]
+  },
+  {
+    "id": "Vladimir",
+    "name_ja": "ブラッドミア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 47.972300000000004,
+        "pickrate": 3.2699,
+        "banrate": 1.1586
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 48.2659,
+        "pickrate": 1.2074,
+        "banrate": 1.1586
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 49.2035,
+        "pickrate": 3.3237,
+        "banrate": 1.5061
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 49.1262,
+        "pickrate": 3.3245999999999998,
+        "banrate": 1.5699
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.910599999999995,
+        "pickrate": 3.7908999999999997,
+        "banrate": 1.2102
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.432100000000005,
+        "pickrate": 4.515700000000001,
+        "banrate": 1.127
+      }
+    ]
+  },
+  {
+    "id": "Kennen",
+    "name_ja": "ケネン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 47.858200000000004,
+        "pickrate": 1.1813,
+        "banrate": 0.6037
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 53.7459,
+        "pickrate": 1.0713,
+        "banrate": 0.6037
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 51.9502,
+        "pickrate": 1.4782,
+        "banrate": 0.37829999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.4174,
+        "pickrate": 1.2787,
+        "banrate": 0.37829999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 51.872600000000006,
+        "pickrate": 1.5249000000000001,
+        "banrate": 0.3766
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.4594,
+        "pickrate": 1.2970000000000002,
+        "banrate": 0.3766
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 53.4755,
+        "pickrate": 1.9623000000000002,
+        "banrate": 0.2989
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.922900000000006,
+        "pickrate": 1.1481999999999999,
+        "banrate": 0.2989
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 51.1278,
+        "pickrate": 2.4912,
+        "banrate": 0.2872
+      }
+    ]
+  },
+  {
+    "id": "Jayce",
+    "name_ja": "ジェイス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 47.8453,
+        "pickrate": 1.5791,
+        "banrate": 0.28440000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 52.1667,
+        "pickrate": 2.0938,
+        "banrate": 0.28440000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 47.8523,
+        "pickrate": 1.2526000000000002,
+        "banrate": 0.6735
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.3649,
+        "pickrate": 2.7574,
+        "banrate": 0.6735
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 47.5867,
+        "pickrate": 1.2344000000000002,
+        "banrate": 0.7352
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.468999999999994,
+        "pickrate": 2.8249,
+        "banrate": 0.7352
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 47.5835,
+        "pickrate": 1.383,
+        "banrate": 1.1624
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.5595,
+        "pickrate": 3.1534,
+        "banrate": 1.1624
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 49.478699999999996,
+        "pickrate": 1.9464,
+        "banrate": 2.4631
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.419599999999996,
+        "pickrate": 4.4641,
+        "banrate": 2.4631
+      }
+    ]
+  },
+  {
+    "id": "Heimerdinger",
+    "name_ja": "ハイマーディンガー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 47.5709,
+        "pickrate": 1.7239,
+        "banrate": 1.5110999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.3624,
+        "pickrate": 1.9390999999999998,
+        "banrate": 1.2663
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.3199,
+        "pickrate": 1.9446999999999999,
+        "banrate": 1.2796999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 48.2376,
+        "pickrate": 1.9579,
+        "banrate": 0.6353
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 47.0186,
+        "pickrate": 1.5968,
+        "banrate": 0.41359999999999997
+      }
+    ]
+  },
+  {
+    "id": "Annie",
+    "name_ja": "アニー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 46.8498,
+        "pickrate": 2.1601,
+        "banrate": 0.1745
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 48.770799999999994,
+        "pickrate": 2.113,
+        "banrate": 0.1043
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 48.8014,
+        "pickrate": 2.1353,
+        "banrate": 0.1067
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 49.922,
+        "pickrate": 2.4383,
+        "banrate": 0.11850000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.895100000000006,
+        "pickrate": 2.4412,
+        "banrate": 0.0562
+      }
+    ]
+  },
+  {
+    "id": "Irelia",
+    "name_ja": "イレリア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 46.3415,
+        "pickrate": 2.0031,
+        "banrate": 1.1656
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.8621,
+        "pickrate": 2.5301,
+        "banrate": 1.1656
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.6591,
+        "pickrate": 1.8631000000000002,
+        "banrate": 1.0215999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.547200000000004,
+        "pickrate": 1.854,
+        "banrate": 1.0424
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.1325,
+        "pickrate": 1.846,
+        "banrate": 0.8130000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.8277,
+        "pickrate": 2.5458000000000003,
+        "banrate": 1.358
+      }
+    ]
+  },
+  {
+    "id": "Akali",
+    "name_ja": "アカリ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 45.726499999999994,
+        "pickrate": 4.083,
+        "banrate": 0.3926
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 45.4783,
+        "pickrate": 2.6749,
+        "banrate": 0.32780000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 45.3505,
+        "pickrate": 2.5736,
+        "banrate": 0.3285
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 45.7522,
+        "pickrate": 2.3731,
+        "banrate": 0.22769999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 48.800900000000006,
+        "pickrate": 2.7987,
+        "banrate": 0.3153
+      }
+    ]
+  },
+  {
+    "id": "Ekko",
+    "name_ja": "エコー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 45.2632,
+        "pickrate": 2.1549,
+        "banrate": 0.1448
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 51.3823,
+        "pickrate": 1.8304,
+        "banrate": 0.1448
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 46.407,
+        "pickrate": 1.7477,
+        "banrate": 0.1163
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.008399999999995,
+        "pickrate": 1.6920000000000002,
+        "banrate": 0.1163
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 46.4299,
+        "pickrate": 1.7058,
+        "banrate": 0.1142
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.26199999999999,
+        "pickrate": 1.6963,
+        "banrate": 0.1142
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 47.7705,
+        "pickrate": 1.4868,
+        "banrate": 0.0777
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 50.664500000000004,
+        "pickrate": 1.6764000000000001,
+        "banrate": 0.0777
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 45.8107,
+        "pickrate": 1.4345,
+        "banrate": 0.0546
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.0007,
+        "pickrate": 2.2649,
+        "banrate": 0.0546
+      }
+    ]
+  },
+  {
+    "id": "Akshan",
+    "name_ja": "アクシャン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 44.722,
+        "pickrate": 2.1654,
+        "banrate": 0.068
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 44.5786,
+        "pickrate": 1.336,
+        "banrate": 0.0672
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 44.8452,
+        "pickrate": 1.2596,
+        "banrate": 0.0675
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 46.5578,
+        "pickrate": 1.2314,
+        "banrate": 0.0505
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 47.8502,
+        "pickrate": 1.1254,
+        "banrate": 0.1374
+      }
+    ]
+  },
+  {
+    "id": "Zoe",
+    "name_ja": "ゾーイ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Emerald",
+        "winrate": 43.993900000000004,
+        "pickrate": 2.2805,
+        "banrate": 0.3542
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 44.757200000000005,
+        "pickrate": 2.0838,
+        "banrate": 0.45999999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 45.102599999999995,
+        "pickrate": 2.0535,
+        "banrate": 0.4842
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Challenger",
+        "winrate": 47.7909,
+        "pickrate": 2.2138999999999998,
+        "banrate": 0.6483
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Legendary_rank",
+        "winrate": 50.8003,
+        "pickrate": 2.243,
+        "banrate": 0.9599
+      }
+    ]
+  },
+  {
+    "id": "Sion",
+    "name_ja": "サイオン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 54.6953,
+        "pickrate": 2.4341,
+        "banrate": 0.335
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.3794,
+        "pickrate": 4.7414,
+        "banrate": 0.6859999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 52.35680000000001,
+        "pickrate": 4.9969,
+        "banrate": 0.7306
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 52.0211,
+        "pickrate": 6.399299999999999,
+        "banrate": 0.6994
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 52.1818,
+        "pickrate": 6.867900000000001,
+        "banrate": 0.7773
+      }
+    ]
+  },
+  {
+    "id": "Vayne",
+    "name_ja": "ヴェイン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 53.1822,
+        "pickrate": 2.0014,
+        "banrate": 8.6319
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 48.428900000000006,
+        "pickrate": 8.218300000000001,
+        "banrate": 8.6319
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.3455,
+        "pickrate": 2.0901,
+        "banrate": 12.6592
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.3352,
+        "pickrate": 10.41,
+        "banrate": 12.6592
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 52.2651,
+        "pickrate": 2.1037,
+        "banrate": 13.526399999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.328399999999995,
+        "pickrate": 10.5764,
+        "banrate": 13.526399999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.367799999999995,
+        "pickrate": 1.7878,
+        "banrate": 16.5785
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.8926,
+        "pickrate": 12.0242,
+        "banrate": 16.5785
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 52.7778,
+        "pickrate": 1.18,
+        "banrate": 18.637
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 51.0759,
+        "pickrate": 12.6214,
+        "banrate": 18.637
+      }
+    ]
+  },
+  {
+    "id": "Drmundo",
+    "name_ja": "ドクター・ムンド",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 52.6028,
+        "pickrate": 6.0669,
+        "banrate": 1.7954999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 51.546400000000006,
+        "pickrate": 1.5233,
+        "banrate": 1.7954999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.6401,
+        "pickrate": 5.9087,
+        "banrate": 1.4385999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.714499999999994,
+        "pickrate": 1.6773,
+        "banrate": 1.4385999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.5155,
+        "pickrate": 5.859,
+        "banrate": 1.4406999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.629599999999996,
+        "pickrate": 1.6565,
+        "banrate": 1.4406999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.0914,
+        "pickrate": 5.0521,
+        "banrate": 0.6255000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 52.071,
+        "pickrate": 1.0102,
+        "banrate": 0.6255000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.4848,
+        "pickrate": 3.6572,
+        "banrate": 0.3106
+      }
+    ]
+  },
+  {
+    "id": "Sett",
+    "name_ja": "セト",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 52.40129999999999,
+        "pickrate": 13.9153,
+        "banrate": 1.7885000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 55.7218,
+        "pickrate": 1.9822,
+        "banrate": 1.7885000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.9726,
+        "pickrate": 14.7316,
+        "banrate": 4.3464
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 52.0827,
+        "pickrate": 2.7203999999999997,
+        "banrate": 4.3464
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.7892,
+        "pickrate": 15.026800000000001,
+        "banrate": 4.7185
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 52.0158,
+        "pickrate": 2.7842,
+        "banrate": 4.7185
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.4731,
+        "pickrate": 16.253,
+        "banrate": 4.9
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.907199999999996,
+        "pickrate": 3.0203,
+        "banrate": 4.9
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.6974,
+        "pickrate": 17.7926,
+        "banrate": 4.737299999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 52.187,
+        "pickrate": 3.64,
+        "banrate": 4.737299999999999
+      }
+    ]
+  },
+  {
+    "id": "Kalista",
+    "name_ja": "カリスタ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 52.1776,
+        "pickrate": 2.0833999999999997,
+        "banrate": 5.4178
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 52.778999999999996,
+        "pickrate": 8.1625,
+        "banrate": 5.4178
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.91480000000001,
+        "pickrate": 1.2636,
+        "banrate": 3.9394
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.0956,
+        "pickrate": 5.0771999999999995,
+        "banrate": 3.9394
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.1752,
+        "pickrate": 1.174,
+        "banrate": 3.7868
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.0069,
+        "pickrate": 4.7798,
+        "banrate": 3.7868
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.306700000000006,
+        "pickrate": 3.9859999999999998,
+        "banrate": 1.4498
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.4917,
+        "pickrate": 2.9173,
+        "banrate": 0.9084
+      }
+    ]
+  },
+  {
+    "id": "Ornn",
+    "name_ja": "オーン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.8602,
+        "pickrate": 1.5476999999999999,
+        "banrate": 0.44489999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 49.6875,
+        "pickrate": 1.6750999999999998,
+        "banrate": 0.44489999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.544900000000005,
+        "pickrate": 2.194,
+        "banrate": 0.2174
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.0659,
+        "pickrate": 1.8414,
+        "banrate": 0.2174
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.5822,
+        "pickrate": 2.2834,
+        "banrate": 0.209
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.9288,
+        "pickrate": 1.8499999999999999,
+        "banrate": 0.209
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.2154,
+        "pickrate": 2.5932,
+        "banrate": 0.1489
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.822,
+        "pickrate": 1.9503,
+        "banrate": 0.1489
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.1723,
+        "pickrate": 2.5458000000000003,
+        "banrate": 0.17329999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 51.1029,
+        "pickrate": 3.8211000000000004,
+        "banrate": 0.17329999999999998
+      }
+    ]
+  },
+  {
+    "id": "MonkeyKing",
+    "name_ja": "ウーコン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.6788,
+        "pickrate": 1.1952,
+        "banrate": 0.39960000000000007
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 44.1176,
+        "pickrate": 2.3137000000000003,
+        "banrate": 0.39960000000000007
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 53.413,
+        "pickrate": 2.7117,
+        "banrate": 0.455
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 47.5648,
+        "pickrate": 3.1294000000000004,
+        "banrate": 0.455
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 53.3119,
+        "pickrate": 2.87,
+        "banrate": 0.4808
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 47.725699999999996,
+        "pickrate": 3.2349,
+        "banrate": 0.4808
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 53.2764,
+        "pickrate": 3.4996,
+        "banrate": 0.4413
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.7002,
+        "pickrate": 3.2192,
+        "banrate": 0.4413
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 51.519000000000005,
+        "pickrate": 3.6993,
+        "banrate": 0.3434
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.1096,
+        "pickrate": 2.8923,
+        "banrate": 0.3434
+      }
+    ]
+  },
+  {
+    "id": "Ksante",
+    "name_ja": "カ・サンテ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.5212,
+        "pickrate": 10.4954,
+        "banrate": 32.1108
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.0847,
+        "pickrate": 7.5784,
+        "banrate": 59.011199999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 52.1101,
+        "pickrate": 7.3323,
+        "banrate": 61.471
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 52.2157,
+        "pickrate": 8.2529,
+        "banrate": 64.3845
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 53.7567,
+        "pickrate": 8.7254,
+        "banrate": 69.0522
+      }
+    ]
+  },
+  {
+    "id": "Ambessa",
+    "name_ja": "アンベッサ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.478,
+        "pickrate": 3.1285,
+        "banrate": 1.9403
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 48.6039,
+        "pickrate": 1.6873,
+        "banrate": 1.9403
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.843799999999995,
+        "pickrate": 4.176,
+        "banrate": 2.7802000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.91369999999999,
+        "pickrate": 1.4057,
+        "banrate": 2.7802000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.7288,
+        "pickrate": 4.2890999999999995,
+        "banrate": 2.9827
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.673,
+        "pickrate": 1.3818000000000001,
+        "banrate": 2.9827
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.00209999999999,
+        "pickrate": 4.9619,
+        "banrate": 3.9267000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.8214,
+        "pickrate": 1.2173,
+        "banrate": 3.9267000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 51.4637,
+        "pickrate": 6.345000000000001,
+        "banrate": 7.933999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 50.0506,
+        "pickrate": 1.5436999999999999,
+        "banrate": 7.933999999999999
+      }
+    ]
+  },
+  {
+    "id": "Renekton",
+    "name_ja": "レネクトン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.4741,
+        "pickrate": 4.3796,
+        "banrate": 0.7747
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.936,
+        "pickrate": 4.4587,
+        "banrate": 0.4149
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.8997,
+        "pickrate": 4.5149,
+        "banrate": 0.4146
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.165499999999994,
+        "pickrate": 4.9244,
+        "banrate": 0.4092
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.6244,
+        "pickrate": 6.2498,
+        "banrate": 0.6665
+      }
+    ]
+  },
+  {
+    "id": "Garen",
+    "name_ja": "ガレン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 51.2719,
+        "pickrate": 10.975200000000001,
+        "banrate": 2.3172
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.4745,
+        "pickrate": 16.5553,
+        "banrate": 5.706300000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.2978,
+        "pickrate": 17.0773,
+        "banrate": 6.268700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.9891,
+        "pickrate": 18.130499999999998,
+        "banrate": 8.474
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.8224,
+        "pickrate": 17.1401,
+        "banrate": 6.994300000000001
+      }
+    ]
+  },
+  {
+    "id": "Tryndamere",
+    "name_ja": "トリンダメア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.9396,
+        "pickrate": 4.3639,
+        "banrate": 17.5394
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 51.6361,
+        "pickrate": 7.9985,
+        "banrate": 17.5394
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.3534,
+        "pickrate": 2.9354,
+        "banrate": 23.9324
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.845099999999995,
+        "pickrate": 7.1404,
+        "banrate": 23.9324
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.4805,
+        "pickrate": 2.7879,
+        "banrate": 24.3663
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.6381,
+        "pickrate": 6.8668000000000005,
+        "banrate": 24.3663
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 48.8759,
+        "pickrate": 2.6106000000000003,
+        "banrate": 14.673300000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.2341,
+        "pickrate": 5.3211,
+        "banrate": 14.673300000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.4942,
+        "pickrate": 2.5395999999999996,
+        "banrate": 10.6281
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 47.274100000000004,
+        "pickrate": 4.0942,
+        "banrate": 10.6281
+      }
+    ]
+  },
+  {
+    "id": "Malphite",
+    "name_ja": "マルファイト",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.82489999999999,
+        "pickrate": 3.2786000000000004,
+        "banrate": 17.59
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 49.7061,
+        "pickrate": 9.7974,
+        "banrate": 17.59
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Diamond",
+        "winrate": 47.102,
+        "pickrate": 1.0317,
+        "banrate": 18.9351
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.4257,
+        "pickrate": 4.789899999999999,
+        "banrate": 18.9351
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.350300000000004,
+        "pickrate": 9.5549,
+        "banrate": 18.9351
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "MID",
+        "rank": "Master",
+        "winrate": 46.7804,
+        "pickrate": 1.0327,
+        "banrate": 19.4007
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.331,
+        "pickrate": 4.9528,
+        "banrate": 19.4007
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.247299999999996,
+        "pickrate": 9.3828,
+        "banrate": 19.4007
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.4385,
+        "pickrate": 5.6477,
+        "banrate": 14.2489
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.123799999999996,
+        "pickrate": 7.4611,
+        "banrate": 14.2489
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 51.25880000000001,
+        "pickrate": 5.332,
+        "banrate": 8.9049
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.0122,
+        "pickrate": 6.6743999999999994,
+        "banrate": 8.9049
+      }
+    ]
+  },
+  {
+    "id": "Shen",
+    "name_ja": "シェン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.5429,
+        "pickrate": 1.7675,
+        "banrate": 0.164
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.093999999999994,
+        "pickrate": 2.2218,
+        "banrate": 0.146
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.9592,
+        "pickrate": 2.2599,
+        "banrate": 0.1555
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 52.389799999999994,
+        "pickrate": 2.3421000000000003,
+        "banrate": 0.1261
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.3943,
+        "pickrate": 1.9792,
+        "banrate": 0.17329999999999998
+      }
+    ]
+  },
+  {
+    "id": "Volibear",
+    "name_ja": "ボリベア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.4483,
+        "pickrate": 4.4756,
+        "banrate": 4.5768
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 49.8693,
+        "pickrate": 2.6696,
+        "banrate": 4.5768
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.1197,
+        "pickrate": 4.6499,
+        "banrate": 2.9939
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 48.4155,
+        "pickrate": 2.6299,
+        "banrate": 2.9939
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.1401,
+        "pickrate": 4.6994,
+        "banrate": 3.012
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.4254,
+        "pickrate": 2.6185,
+        "banrate": 3.012
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.1675,
+        "pickrate": 4.543,
+        "banrate": 1.6563
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.4865,
+        "pickrate": 2.0286,
+        "banrate": 1.6563
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 51.452600000000004,
+        "pickrate": 4.4595,
+        "banrate": 1.2113
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 48.1162,
+        "pickrate": 1.9886000000000001,
+        "banrate": 1.2113
+      }
+    ]
+  },
+  {
+    "id": "Gwen",
+    "name_ja": "グウェン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 50.4208,
+        "pickrate": 2.2805,
+        "banrate": 0.5043
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 46.0598,
+        "pickrate": 1.2842,
+        "banrate": 0.5043
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 47.6695,
+        "pickrate": 1.537,
+        "banrate": 0.3579
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 47.8251,
+        "pickrate": 1.4947,
+        "banrate": 0.3664
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 47.0256,
+        "pickrate": 1.4433,
+        "banrate": 0.2712
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 47.9748,
+        "pickrate": 1.7341,
+        "banrate": 0.24659999999999999
+      }
+    ]
+  },
+  {
+    "id": "Darius",
+    "name_ja": "ダリウス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.9725,
+        "pickrate": 19.0644,
+        "banrate": 6.428100000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.130300000000005,
+        "pickrate": 3.3484,
+        "banrate": 6.428100000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 48.3578,
+        "pickrate": 16.5599,
+        "banrate": 8.3676
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.4372,
+        "pickrate": 4.336,
+        "banrate": 8.3676
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 48.096,
+        "pickrate": 16.3251,
+        "banrate": 8.6561
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.349199999999996,
+        "pickrate": 4.4639,
+        "banrate": 8.6561
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 48.3822,
+        "pickrate": 15.3504,
+        "banrate": 6.6058
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.578100000000006,
+        "pickrate": 4.1213,
+        "banrate": 6.6058
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.328,
+        "pickrate": 16.8404,
+        "banrate": 6.2389
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 50.202400000000004,
+        "pickrate": 3.8554,
+        "banrate": 6.2389
+      }
+    ]
+  },
+  {
+    "id": "Urgot",
+    "name_ja": "アーゴット",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.7664,
+        "pickrate": 3.734,
+        "banrate": 1.5302
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.9087,
+        "pickrate": 5.16,
+        "banrate": 3.1616
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.8748,
+        "pickrate": 5.1921,
+        "banrate": 3.3141
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 49.186600000000006,
+        "pickrate": 4.5098,
+        "banrate": 1.6601000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.7168,
+        "pickrate": 3.5885,
+        "banrate": 0.8538
+      }
+    ]
+  },
+  {
+    "id": "Aatrox",
+    "name_ja": "エイトロックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.6242,
+        "pickrate": 7.4296,
+        "banrate": 10.3977
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 45.6731,
+        "pickrate": 1.8147,
+        "banrate": 10.3977
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.119299999999996,
+        "pickrate": 6.5222,
+        "banrate": 6.4142
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.2991,
+        "pickrate": 6.4927,
+        "banrate": 6.420299999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.8,
+        "pickrate": 7.030200000000001,
+        "banrate": 4.9592
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 51.018600000000006,
+        "pickrate": 8.7347,
+        "banrate": 4.9527
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 48.2587,
+        "pickrate": 1.2550000000000001,
+        "banrate": 4.9527
+      }
+    ]
+  },
+  {
+    "id": "Rumble",
+    "name_ja": "ランブル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.2447,
+        "pickrate": 1.7327,
+        "banrate": 0.506
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 50.1215,
+        "pickrate": 2.76,
+        "banrate": 0.5721
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 50.16929999999999,
+        "pickrate": 2.8188,
+        "banrate": 0.5927
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.1034,
+        "pickrate": 2.8316999999999997,
+        "banrate": 0.5146000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.4898,
+        "pickrate": 2.8424,
+        "banrate": 0.2903
+      }
+    ]
+  },
+  {
+    "id": "Mordekaiser",
+    "name_ja": "モルデカイザー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.106899999999996,
+        "pickrate": 12.5037,
+        "banrate": 9.7206
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 49.527100000000004,
+        "pickrate": 9.869,
+        "banrate": 14.9702
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 49.5111,
+        "pickrate": 9.6293,
+        "banrate": 15.604999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 49.7935,
+        "pickrate": 8.686,
+        "banrate": 11.8818
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.3067,
+        "pickrate": 8.8924,
+        "banrate": 9.4512
+      }
+    ]
+  },
+  {
+    "id": "Gnar",
+    "name_ja": "ナー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 49.0066,
+        "pickrate": 2.8982,
+        "banrate": 0.2705
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 48.7587,
+        "pickrate": 2.8396999999999997,
+        "banrate": 0.2369
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 48.7396,
+        "pickrate": 2.7684,
+        "banrate": 0.2441
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 47.7175,
+        "pickrate": 2.5236,
+        "banrate": 0.1913
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.1375,
+        "pickrate": 2.179,
+        "banrate": 0.14200000000000002
+      }
+    ]
+  },
+  {
+    "id": "Jax",
+    "name_ja": "ジャックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 48.5546,
+        "pickrate": 3.5612999999999997,
+        "banrate": 0.46940000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 46.5464,
+        "pickrate": 3.385,
+        "banrate": 0.46940000000000004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 47.7325,
+        "pickrate": 2.4673,
+        "banrate": 0.20249999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 48.103699999999996,
+        "pickrate": 2.3895,
+        "banrate": 0.20249999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 47.6787,
+        "pickrate": 2.3789000000000002,
+        "banrate": 0.1888
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.007600000000004,
+        "pickrate": 2.247,
+        "banrate": 0.1888
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 47.1138,
+        "pickrate": 2.2688,
+        "banrate": 0.0924
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.2881,
+        "pickrate": 1.6824,
+        "banrate": 0.0924
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.409800000000004,
+        "pickrate": 2.2851,
+        "banrate": 0.13110000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 46.1095,
+        "pickrate": 1.6249,
+        "banrate": 0.13110000000000002
+      }
+    ]
+  },
+  {
+    "id": "Riven",
+    "name_ja": "リヴェン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 47.3713,
+        "pickrate": 3.1861,
+        "banrate": 0.9004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 47.0511,
+        "pickrate": 1.3313,
+        "banrate": 0.9004
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 48.3453,
+        "pickrate": 1.9276000000000002,
+        "banrate": 0.3711
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 48.4334,
+        "pickrate": 1.8334,
+        "banrate": 0.3583
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 49.5253,
+        "pickrate": 1.7742999999999998,
+        "banrate": 0.3043
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 47.4771,
+        "pickrate": 1.1846,
+        "banrate": 0.3043
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.219899999999996,
+        "pickrate": 2.1291,
+        "banrate": 0.6353
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 46.2115,
+        "pickrate": 1.8745999999999998,
+        "banrate": 0.6353
+      }
+    ]
+  },
+  {
+    "id": "Camille",
+    "name_ja": "カミール",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 46.3964,
+        "pickrate": 1.5494,
+        "banrate": 0.10640000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 48.3641,
+        "pickrate": 1.8014999999999999,
+        "banrate": 0.0735
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 48.300399999999996,
+        "pickrate": 1.8497,
+        "banrate": 0.078
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 49.0931,
+        "pickrate": 2.2769,
+        "banrate": 0.0842
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 48.904399999999995,
+        "pickrate": 3.3480999999999996,
+        "banrate": 0.153
+      }
+    ]
+  },
+  {
+    "id": "Fiora",
+    "name_ja": "フィオラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 45.895799999999994,
+        "pickrate": 2.4446,
+        "banrate": 0.3751
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 47.0572,
+        "pickrate": 2.1048,
+        "banrate": 0.4575
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 47.266999999999996,
+        "pickrate": 2.0747,
+        "banrate": 0.4729
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 48.342400000000005,
+        "pickrate": 1.9997999999999998,
+        "banrate": 0.42329999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 47.873599999999996,
+        "pickrate": 2.5692,
+        "banrate": 0.8116999999999999
+      }
+    ]
+  },
+  {
+    "id": "Skarner",
+    "name_ja": "スカーナー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Emerald",
+        "winrate": 39.3929,
+        "pickrate": 5.2887,
+        "banrate": 6.058199999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 41.0557,
+        "pickrate": 1.1900000000000002,
+        "banrate": 6.058199999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 41.4033,
+        "pickrate": 11.2649,
+        "banrate": 6.058199999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 35.6948,
+        "pickrate": 3.2996999999999996,
+        "banrate": 18.5542
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 39.1892,
+        "pickrate": 8.2903,
+        "banrate": 18.5542
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 35.9262,
+        "pickrate": 2.9074,
+        "banrate": 20.1708
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 38.9005,
+        "pickrate": 7.505599999999999,
+        "banrate": 20.1708
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 34.6234,
+        "pickrate": 3.6365000000000003,
+        "banrate": 27.848499999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 37.6903,
+        "pickrate": 1.0352000000000001,
+        "banrate": 27.848499999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 37.9093,
+        "pickrate": 9.1283,
+        "banrate": 27.848499999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 39.3266,
+        "pickrate": 2.3179000000000003,
+        "banrate": 23.4586
+      }
+    ]
+  },
+  {
+    "id": "Kogmaw",
+    "name_ja": "コグ＝マウ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 52.4027,
+        "pickrate": 2.2875,
+        "banrate": 0.43270000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 52.1362,
+        "pickrate": 3.2435,
+        "banrate": 0.4804
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 52.166500000000006,
+        "pickrate": 3.3769,
+        "banrate": 0.5081
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 52.221399999999996,
+        "pickrate": 4.4767,
+        "banrate": 0.6347
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 51.662699999999994,
+        "pickrate": 4.553100000000001,
+        "banrate": 0.5713
+      }
+    ]
+  },
+  {
+    "id": "Jhin",
+    "name_ja": "ジン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 51.551899999999996,
+        "pickrate": 11.8058,
+        "banrate": 0.6194
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 51.063199999999995,
+        "pickrate": 15.8463,
+        "banrate": 0.6929000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 51.0216,
+        "pickrate": 16.2242,
+        "banrate": 0.7226
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.9123,
+        "pickrate": 17.4225,
+        "banrate": 0.6688999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.7018,
+        "pickrate": 18.1266,
+        "banrate": 0.6446000000000001
+      }
+    ]
+  },
+  {
+    "id": "Varus",
+    "name_ja": "ヴァルス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 51.3862,
+        "pickrate": 5.4126,
+        "banrate": 0.7799999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.371500000000005,
+        "pickrate": 6.165699999999999,
+        "banrate": 0.35509999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.2954,
+        "pickrate": 6.2119,
+        "banrate": 0.3424
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.2583,
+        "pickrate": 6.417200000000001,
+        "banrate": 0.1962
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.4317,
+        "pickrate": 6.729,
+        "banrate": 0.1592
+      }
+    ]
+  },
+  {
+    "id": "Missfortune",
+    "name_ja": "ミス・フォーチュン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 51.0605,
+        "pickrate": 19.0033,
+        "banrate": 1.4762000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 51.967600000000004,
+        "pickrate": 22.2452,
+        "banrate": 3.305
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 51.9477,
+        "pickrate": 22.3517,
+        "banrate": 3.5294
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 51.678900000000006,
+        "pickrate": 18.740299999999998,
+        "banrate": 2.3497
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.7291,
+        "pickrate": 14.5569,
+        "banrate": 1.6452000000000002
+      }
+    ]
+  },
+  {
+    "id": "Sivir",
+    "name_ja": "シヴィア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.8876,
+        "pickrate": 4.4232000000000005,
+        "banrate": 0.1047
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.3857,
+        "pickrate": 4.8661,
+        "banrate": 0.101
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.295,
+        "pickrate": 4.936999999999999,
+        "banrate": 0.0996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.321400000000004,
+        "pickrate": 5.1565,
+        "banrate": 0.0603
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.3723,
+        "pickrate": 5.346,
+        "banrate": 0.025
+      }
+    ]
+  },
+  {
+    "id": "Lucian",
+    "name_ja": "ルシアン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.77159999999999,
+        "pickrate": 6.897499999999999,
+        "banrate": 0.2408
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.952400000000004,
+        "pickrate": 6.3893,
+        "banrate": 0.1908
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 49.0776,
+        "pickrate": 6.3969,
+        "banrate": 0.2057
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.027,
+        "pickrate": 8.061,
+        "banrate": 0.4527
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 48.7458,
+        "pickrate": 8.7738,
+        "banrate": 0.4511
+      }
+    ]
+  },
+  {
+    "id": "Zeri",
+    "name_ja": "ゼリ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.56040000000001,
+        "pickrate": 2.8023,
+        "banrate": 0.0558
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 49.4885,
+        "pickrate": 2.0368,
+        "banrate": 0.019100000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 49.6753,
+        "pickrate": 2.0023,
+        "banrate": 0.0176
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.0777,
+        "pickrate": 2.4492,
+        "banrate": 0.0103
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.7838,
+        "pickrate": 3.2857,
+        "banrate": 0.0109
+      }
+    ]
+  },
+  {
+    "id": "Xayah",
+    "name_ja": "ザヤ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.4374,
+        "pickrate": 5.784199999999999,
+        "banrate": 0.3402
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.8728,
+        "pickrate": 5.0442,
+        "banrate": 0.1792
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.665000000000006,
+        "pickrate": 5.0617,
+        "banrate": 0.1766
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 51.24530000000001,
+        "pickrate": 5.7602,
+        "banrate": 0.1712
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.161500000000004,
+        "pickrate": 6.7649,
+        "banrate": 0.1342
+      }
+    ]
+  },
+  {
+    "id": "Jinx",
+    "name_ja": "ジンクス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.26350000000001,
+        "pickrate": 8.2759,
+        "banrate": 0.848
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.5359,
+        "pickrate": 9.099599999999999,
+        "banrate": 0.24889999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.503800000000005,
+        "pickrate": 9.185599999999999,
+        "banrate": 0.23270000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 47.8204,
+        "pickrate": 9.2125,
+        "banrate": 0.1609
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 47.827799999999996,
+        "pickrate": 7.9402,
+        "banrate": 0.1093
+      }
+    ]
+  },
+  {
+    "id": "Caitlyn",
+    "name_ja": "ケイトリン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.179700000000004,
+        "pickrate": 22.334300000000002,
+        "banrate": 2.7185
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.9488,
+        "pickrate": 22.3742,
+        "banrate": 3.1957
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.8276,
+        "pickrate": 21.9219,
+        "banrate": 3.2071
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 48.2614,
+        "pickrate": 17.3154,
+        "banrate": 1.5438
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 48.0724,
+        "pickrate": 14.049600000000002,
+        "banrate": 1.0833000000000002
+      }
+    ]
+  },
+  {
+    "id": "Ashe",
+    "name_ja": "アッシュ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 50.0587,
+        "pickrate": 8.9198,
+        "banrate": 0.2966
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.341,
+        "pickrate": 8.0981,
+        "banrate": 0.1554
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.3325,
+        "pickrate": 7.945399999999999,
+        "banrate": 0.15089999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 49.3178,
+        "pickrate": 6.4921999999999995,
+        "banrate": 0.08310000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.837900000000005,
+        "pickrate": 5.2961,
+        "banrate": 0.089
+      }
+    ]
+  },
+  {
+    "id": "Ezreal",
+    "name_ja": "エズリアル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 49.897000000000006,
+        "pickrate": 11.0153,
+        "banrate": 0.45189999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 50.409400000000005,
+        "pickrate": 11.4,
+        "banrate": 0.33
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.505599999999994,
+        "pickrate": 11.394400000000001,
+        "banrate": 0.3364
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.8416,
+        "pickrate": 11.945400000000001,
+        "banrate": 0.2799
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.125600000000006,
+        "pickrate": 14.909600000000001,
+        "banrate": 0.615
+      }
+    ]
+  },
+  {
+    "id": "Kaisa",
+    "name_ja": "カイ＝サ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 49.567699999999995,
+        "pickrate": 12.31,
+        "banrate": 0.3263
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.4606,
+        "pickrate": 13.572400000000002,
+        "banrate": 0.2799
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.4293,
+        "pickrate": 13.8796,
+        "banrate": 0.2915
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 48.6513,
+        "pickrate": 16.4796,
+        "banrate": 0.39509999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.0805,
+        "pickrate": 18.5028,
+        "banrate": 0.37929999999999997
+      }
+    ]
+  },
+  {
+    "id": "Samira",
+    "name_ja": "サミーラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 49.4756,
+        "pickrate": 11.4795,
+        "banrate": 5.3096
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.6358,
+        "pickrate": 8.1704,
+        "banrate": 5.444100000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.5004,
+        "pickrate": 7.9794,
+        "banrate": 5.4307
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 47.862300000000005,
+        "pickrate": 7.1812000000000005,
+        "banrate": 2.8008
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 49.8121,
+        "pickrate": 7.8903,
+        "banrate": 2.0323
+      }
+    ]
+  },
+  {
+    "id": "Draven",
+    "name_ja": "ドレイヴン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 48.7517,
+        "pickrate": 12.5805,
+        "banrate": 8.1747
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.6785,
+        "pickrate": 6.3878,
+        "banrate": 2.7908
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.7929,
+        "pickrate": 5.9859,
+        "banrate": 2.3706
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 49.6353,
+        "pickrate": 5.5135000000000005,
+        "banrate": 0.6472
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 50.4756,
+        "pickrate": 5.2508,
+        "banrate": 0.6228
+      }
+    ]
+  },
+  {
+    "id": "Twitch",
+    "name_ja": "トゥイッチ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 48.6572,
+        "pickrate": 3.3135,
+        "banrate": 0.2757
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.3138,
+        "pickrate": 4.3502,
+        "banrate": 0.2616
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.2846,
+        "pickrate": 4.4809,
+        "banrate": 0.2712
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 47.7778,
+        "pickrate": 5.0375000000000005,
+        "banrate": 0.1924
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 47.6434,
+        "pickrate": 4.272200000000001,
+        "banrate": 0.12639999999999998
+      }
+    ]
+  },
+  {
+    "id": "Corki",
+    "name_ja": "コーキ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 48.2412,
+        "pickrate": 1.0416999999999998,
+        "banrate": 0.0419
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 49.9586,
+        "pickrate": 1.5509,
+        "banrate": 0.0228
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 50.1229,
+        "pickrate": 1.6074000000000002,
+        "banrate": 0.0202
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 50.12219999999999,
+        "pickrate": 2.0014,
+        "banrate": 0.015200000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 48.6155,
+        "pickrate": 2.9314,
+        "banrate": 0.018699999999999998
+      }
+    ]
+  },
+  {
+    "id": "Tristana",
+    "name_ja": "トリスターナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Emerald",
+        "winrate": 46.9324,
+        "pickrate": 7.223699999999999,
+        "banrate": 0.1326
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Diamond",
+        "winrate": 48.5338,
+        "pickrate": 7.1496,
+        "banrate": 0.1381
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Master",
+        "winrate": 48.633700000000005,
+        "pickrate": 7.0773,
+        "banrate": 0.1355
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Challenger",
+        "winrate": 48.5891,
+        "pickrate": 5.6232999999999995,
+        "banrate": 0.055999999999999994
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "ADC",
+        "rank": "Legendary_rank",
+        "winrate": 48.0291,
+        "pickrate": 4.7123,
+        "banrate": 0.0328
+      }
+    ]
+  },
+  {
+    "id": "Rell",
+    "name_ja": "レル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 53.646899999999995,
+        "pickrate": 3.3013,
+        "banrate": 2.0101
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.7729,
+        "pickrate": 4.6125,
+        "banrate": 2.7695000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.7819,
+        "pickrate": 4.7202,
+        "banrate": 2.8802000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.4711,
+        "pickrate": 4.9685,
+        "banrate": 2.5421
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 52.85379999999999,
+        "pickrate": 4.7311,
+        "banrate": 1.9277
+      }
+    ]
+  },
+  {
+    "id": "Leona",
+    "name_ja": "レオナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 53.256899999999995,
+        "pickrate": 11.411399999999999,
+        "banrate": 5.8575
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.830200000000005,
+        "pickrate": 11.7864,
+        "banrate": 7.886799999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.7706,
+        "pickrate": 11.8523,
+        "banrate": 8.187999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.4655,
+        "pickrate": 10.252600000000001,
+        "banrate": 5.8938999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 51.1298,
+        "pickrate": 7.5984,
+        "banrate": 2.8251999999999997
+      }
+    ]
+  },
+  {
+    "id": "Maokai",
+    "name_ja": "マオカイ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 52.0539,
+        "pickrate": 2.5911,
+        "banrate": 0.5584
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 52.3479,
+        "pickrate": 4.9326,
+        "banrate": 0.4922
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 52.213699999999996,
+        "pickrate": 5.1861,
+        "banrate": 0.5198
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 52.5237,
+        "pickrate": 5.8569,
+        "banrate": 0.5353
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 52.0285,
+        "pickrate": 6.5792,
+        "banrate": 0.4527
+      }
+    ]
+  },
+  {
+    "id": "Nautilus",
+    "name_ja": "ノーチラス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.8123,
+        "pickrate": 15.693299999999999,
+        "banrate": 4.6501
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 53.2675,
+        "pickrate": 2.2962,
+        "banrate": 4.6501
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 52.3878,
+        "pickrate": 2.0799000000000003,
+        "banrate": 8.267900000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.2398,
+        "pickrate": 16.9793,
+        "banrate": 8.267900000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.093999999999994,
+        "pickrate": 4.0113,
+        "banrate": 8.267900000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 52.4458,
+        "pickrate": 2.2106,
+        "banrate": 8.899700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.156800000000004,
+        "pickrate": 17.0246,
+        "banrate": 8.899700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.173500000000004,
+        "pickrate": 4.1938,
+        "banrate": 8.899700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 52.6058,
+        "pickrate": 2.6589,
+        "banrate": 9.7521
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.4703,
+        "pickrate": 15.762899999999998,
+        "banrate": 9.7521
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.94029999999999,
+        "pickrate": 4.4392000000000005,
+        "banrate": 9.7521
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 49.5179,
+        "pickrate": 2.2664,
+        "banrate": 9.7634
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 51.088,
+        "pickrate": 14.9924,
+        "banrate": 9.7634
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 48.4547,
+        "pickrate": 4.3938999999999995,
+        "banrate": 9.7634
+      }
+    ]
+  },
+  {
+    "id": "Blitzcrank",
+    "name_ja": "ブリッツクランク",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.727599999999995,
+        "pickrate": 10.402899999999999,
+        "banrate": 3.9521
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.4448,
+        "pickrate": 8.7423,
+        "banrate": 2.604
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.5269,
+        "pickrate": 8.7152,
+        "banrate": 2.5667
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.89320000000001,
+        "pickrate": 8.2132,
+        "banrate": 1.6634
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 50.7824,
+        "pickrate": 8.1791,
+        "banrate": 1.0224
+      }
+    ]
+  },
+  {
+    "id": "Janna",
+    "name_ja": "ジャンナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.706700000000005,
+        "pickrate": 1.3802,
+        "banrate": 0.1919
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.783699999999996,
+        "pickrate": 1.6822,
+        "banrate": 0.0972
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.5689,
+        "pickrate": 1.7372999999999998,
+        "banrate": 0.0945
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.3006,
+        "pickrate": 2.3698,
+        "banrate": 0.0853
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.4926,
+        "pickrate": 3.0547,
+        "banrate": 0.1015
+      }
+    ]
+  },
+  {
+    "id": "Nami",
+    "name_ja": "ナミ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.45269999999999,
+        "pickrate": 3.3029999999999995,
+        "banrate": 0.41000000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.31909999999999,
+        "pickrate": 5.3338,
+        "banrate": 0.1516
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.2706,
+        "pickrate": 5.609,
+        "banrate": 0.1476
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 51.36429999999999,
+        "pickrate": 7.946400000000001,
+        "banrate": 0.12340000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 53.3095,
+        "pickrate": 9.149899999999999,
+        "banrate": 0.1327
+      }
+    ]
+  },
+  {
+    "id": "Soraka",
+    "name_ja": "ソラカ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.3607,
+        "pickrate": 4.5524000000000004,
+        "banrate": 1.8862
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.23180000000001,
+        "pickrate": 4.7618,
+        "banrate": 1.6984
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.0641,
+        "pickrate": 4.8412999999999995,
+        "banrate": 1.6922
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.0323,
+        "pickrate": 5.0429,
+        "banrate": 1.1406
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.4566,
+        "pickrate": 4.348599999999999,
+        "banrate": 0.679
+      }
+    ]
+  },
+  {
+    "id": "Karma",
+    "name_ja": "カルマ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 51.334599999999995,
+        "pickrate": 2.811,
+        "banrate": 0.3664
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.6181,
+        "pickrate": 4.537,
+        "banrate": 0.3449
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.582899999999995,
+        "pickrate": 4.7013,
+        "banrate": 0.3499
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.3828,
+        "pickrate": 5.6787,
+        "banrate": 0.3059
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 49.8936,
+        "pickrate": 8.8034,
+        "banrate": 0.34650000000000003
+      }
+    ]
+  },
+  {
+    "id": "Zilean",
+    "name_ja": "ジリアン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.964200000000005,
+        "pickrate": 2.5335,
+        "banrate": 1.0399
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 52.7204,
+        "pickrate": 1.9201,
+        "banrate": 1.6131
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 52.979699999999994,
+        "pickrate": 1.8339,
+        "banrate": 1.7281000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 53.227500000000006,
+        "pickrate": 2.1215,
+        "banrate": 2.6551
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 54.86220000000001,
+        "pickrate": 3.0016000000000003,
+        "banrate": 4.6202
+      }
+    ]
+  },
+  {
+    "id": "Alistar",
+    "name_ja": "アリスター",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.8246,
+        "pickrate": 3.4915000000000003,
+        "banrate": 0.6456
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.049299999999995,
+        "pickrate": 4.6357,
+        "banrate": 0.5499999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.151500000000006,
+        "pickrate": 4.724600000000001,
+        "banrate": 0.5603
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.4607,
+        "pickrate": 5.1385,
+        "banrate": 0.5597000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 50.921499999999995,
+        "pickrate": 5.5053,
+        "banrate": 0.398
+      }
+    ]
+  },
+  {
+    "id": "Braum",
+    "name_ja": "ブラウム",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.808600000000006,
+        "pickrate": 3.8841,
+        "banrate": 1.3679999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 51.2076,
+        "pickrate": 4.8039,
+        "banrate": 1.1451
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 51.186699999999995,
+        "pickrate": 4.8892,
+        "banrate": 1.1709
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.793699999999994,
+        "pickrate": 4.7245,
+        "banrate": 0.9439
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 51.0996,
+        "pickrate": 5.110399999999999,
+        "banrate": 0.7913999999999999
+      }
+    ]
+  },
+  {
+    "id": "Rakan",
+    "name_ja": "ラカン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 50.381699999999995,
+        "pickrate": 2.7428999999999997,
+        "banrate": 0.46759999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 48.4675,
+        "pickrate": 2.5191000000000003,
+        "banrate": 0.24130000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 48.4741,
+        "pickrate": 2.5025,
+        "banrate": 0.2316
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 48.3729,
+        "pickrate": 2.4715000000000003,
+        "banrate": 0.157
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.2968,
+        "pickrate": 3.8491999999999997,
+        "banrate": 0.2513
+      }
+    ]
+  },
+  {
+    "id": "Lulu",
+    "name_ja": "ルル",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 49.6254,
+        "pickrate": 6.0546999999999995,
+        "banrate": 2.3905
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.6253,
+        "pickrate": 8.5899,
+        "banrate": 6.5687
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.6545,
+        "pickrate": 9.026399999999999,
+        "banrate": 7.1935
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.9518,
+        "pickrate": 13.543,
+        "banrate": 11.3215
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 50.74999999999999,
+        "pickrate": 10.5095,
+        "banrate": 8.4756
+      }
+    ]
+  },
+  {
+    "id": "Senna",
+    "name_ja": "セナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 49.463499999999996,
+        "pickrate": 5.040900000000001,
+        "banrate": 0.7171000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.993900000000004,
+        "pickrate": 4.6882,
+        "banrate": 0.6688000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.065000000000005,
+        "pickrate": 4.5576,
+        "banrate": 0.6888
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.4394,
+        "pickrate": 3.6832999999999996,
+        "banrate": 0.49119999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 51.4957,
+        "pickrate": 4.8528,
+        "banrate": 0.5198
+      }
+    ]
+  },
+  {
+    "id": "Seraphine",
+    "name_ja": "セラフィーン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 48.997299999999996,
+        "pickrate": 10.8757,
+        "banrate": 2.1375
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 48.8937,
+        "pickrate": 6.3468,
+        "banrate": 0.7107
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.0409,
+        "pickrate": 6.074800000000001,
+        "banrate": 0.5962000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 48.1628,
+        "pickrate": 4.5402,
+        "banrate": 0.156
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 49.5556,
+        "pickrate": 4.9168,
+        "banrate": 0.1186
+      }
+    ]
+  },
+  {
+    "id": "Thresh",
+    "name_ja": "スレッシュ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 48.8796,
+        "pickrate": 12.926000000000002,
+        "banrate": 6.909700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 48.043400000000005,
+        "pickrate": 11.7363,
+        "banrate": 4.7411
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 48.0023,
+        "pickrate": 11.5679,
+        "banrate": 4.6904
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 48.2496,
+        "pickrate": 11.0678,
+        "banrate": 3.3078000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 48.3788,
+        "pickrate": 12.1312,
+        "banrate": 2.5458000000000003
+      }
+    ]
+  },
+  {
+    "id": "Pyke",
+    "name_ja": "パイク",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 48.6961,
+        "pickrate": 6.3565,
+        "banrate": 2.2561
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.0549,
+        "pickrate": 4.3642,
+        "banrate": 1.9949000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.5099,
+        "pickrate": 4.1808,
+        "banrate": 1.9869999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.15500000000001,
+        "pickrate": 4.0327,
+        "banrate": 1.4345999999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 49.3405,
+        "pickrate": 4.9699,
+        "banrate": 1.5016
+      }
+    ]
+  },
+  {
+    "id": "Sona",
+    "name_ja": "ソナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 47.5456,
+        "pickrate": 2.4882,
+        "banrate": 0.1518
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 49.8531,
+        "pickrate": 1.5055,
+        "banrate": 0.0351
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 49.6956,
+        "pickrate": 1.5139,
+        "banrate": 0.031100000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.989700000000006,
+        "pickrate": 1.8395000000000001,
+        "banrate": 0.0196
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 52.653499999999994,
+        "pickrate": 2.6176,
+        "banrate": 0.0125
+      }
+    ]
+  },
+  {
+    "id": "Yuumi",
+    "name_ja": "ユーミ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Emerald",
+        "winrate": 46.7406,
+        "pickrate": 7.7088,
+        "banrate": 19.5111
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 46.206399999999995,
+        "pickrate": 7.9415,
+        "banrate": 25.5368
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 46.3302,
+        "pickrate": 8.3063,
+        "banrate": 26.8447
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 47.1023,
+        "pickrate": 11.6085,
+        "banrate": 32.4659
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 42.2977,
+        "pickrate": 5.9782,
+        "banrate": 22.0772
+      }
+    ]
+  },
+  {
+    "id": "Nunu",
+    "name_ja": "ヌヌ＆ウィルンプ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 57.60150000000001,
+        "pickrate": 1.8478,
+        "banrate": 0.075
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 55.1068,
+        "pickrate": 2.5193,
+        "banrate": 0.6837
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 55.1153,
+        "pickrate": 2.6047000000000002,
+        "banrate": 0.7747
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 54.9167,
+        "pickrate": 3.1001999999999996,
+        "banrate": 1.8183
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 53.923500000000004,
+        "pickrate": 3.1029999999999998,
+        "banrate": 2.9953
+      }
+    ]
+  },
+  {
+    "id": "Lillia",
+    "name_ja": "リリア",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 55.9759,
+        "pickrate": 2.0292999999999997,
+        "banrate": 0.7119
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 55.6947,
+        "pickrate": 2.9396,
+        "banrate": 1.1566999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 55.6967,
+        "pickrate": 3.0568,
+        "banrate": 1.2305
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 55.672399999999996,
+        "pickrate": 3.9278,
+        "banrate": 1.5341
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 54.108599999999996,
+        "pickrate": 5.4897,
+        "banrate": 2.0431999999999997
+      }
+    ]
+  },
+  {
+    "id": "Rammus",
+    "name_ja": "ラムス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 54.705400000000004,
+        "pickrate": 1.9839,
+        "banrate": 1.3593
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 54.6396,
+        "pickrate": 4.1911,
+        "banrate": 3.9254
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 54.497099999999996,
+        "pickrate": 4.3902,
+        "banrate": 4.288
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 54.801100000000005,
+        "pickrate": 5.1782,
+        "banrate": 5.4494
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 54.0809,
+        "pickrate": 4.0927,
+        "banrate": 4.3721000000000005
+      }
+    ]
+  },
+  {
+    "id": "Masteryi",
+    "name_ja": "マスター・イー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 54.6852,
+        "pickrate": 22.5873,
+        "banrate": 42.2031
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.1634,
+        "pickrate": 12.0831,
+        "banrate": 64.9491
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.5655,
+        "pickrate": 11.1182,
+        "banrate": 66.47380000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 48.7184,
+        "pickrate": 9.8581,
+        "banrate": 58.8259
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 48.3646,
+        "pickrate": 9.1624,
+        "banrate": 50.2825
+      }
+    ]
+  },
+  {
+    "id": "Shyvana",
+    "name_ja": "シヴァーナ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 53.6825,
+        "pickrate": 7.6286000000000005,
+        "banrate": 2.2334
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 52.1926,
+        "pickrate": 8.4451,
+        "banrate": 5.0653999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 52.1263,
+        "pickrate": 8.5807,
+        "banrate": 5.479
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.6207,
+        "pickrate": 7.829,
+        "banrate": 5.7493
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 50.085100000000004,
+        "pickrate": 7.333099999999999,
+        "banrate": 4.5953
+      }
+    ]
+  },
+  {
+    "id": "Vi",
+    "name_ja": "ヴァイ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 52.816399999999994,
+        "pickrate": 5.018199999999999,
+        "banrate": 0.40480000000000005
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 52.3871,
+        "pickrate": 7.6316999999999995,
+        "banrate": 0.8002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 52.2394,
+        "pickrate": 7.879,
+        "banrate": 0.8669
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 52.23,
+        "pickrate": 8.175699999999999,
+        "banrate": 1.0499
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.8484,
+        "pickrate": 8.4023,
+        "banrate": 1.1082
+      }
+    ]
+  },
+  {
+    "id": "Amumu",
+    "name_ja": "アムム",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 52.666199999999996,
+        "pickrate": 2.3887,
+        "banrate": 0.1605
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 56.443799999999996,
+        "pickrate": 3.9898999999999996,
+        "banrate": 0.1798
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 56.6809,
+        "pickrate": 4.1586,
+        "banrate": 0.18660000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 56.117,
+        "pickrate": 4.3663,
+        "banrate": 0.17229999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 55.450500000000005,
+        "pickrate": 3.4652000000000003,
+        "banrate": 0.1764
+      }
+    ]
+  },
+  {
+    "id": "Evelynn",
+    "name_ja": "イブリン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 52.2177,
+        "pickrate": 2.5964,
+        "banrate": 0.4955
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.5142,
+        "pickrate": 3.327,
+        "banrate": 2.4216
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.3675,
+        "pickrate": 3.4423000000000004,
+        "banrate": 2.6936
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.46810000000001,
+        "pickrate": 3.9234999999999998,
+        "banrate": 4.4821
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.841,
+        "pickrate": 4.7904,
+        "banrate": 5.9095
+      }
+    ]
+  },
+  {
+    "id": "Viego",
+    "name_ja": "ヴィエゴ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 51.50169999999999,
+        "pickrate": 7.087599999999999,
+        "banrate": 3.6241000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.856899999999996,
+        "pickrate": 4.438000000000001,
+        "banrate": 7.471800000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.5093,
+        "pickrate": 4.3441,
+        "banrate": 8.0938
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.0655,
+        "pickrate": 4.6228,
+        "banrate": 10.447199999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.0854,
+        "pickrate": 6.6151,
+        "banrate": 15.779000000000002
+      }
+    ]
+  },
+  {
+    "id": "Pantheon",
+    "name_ja": "パンテオン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.89399999999999,
+        "pickrate": 4.196400000000001,
+        "banrate": 1.8775
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.1282,
+        "pickrate": 5.5784,
+        "banrate": 2.7687
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.126400000000004,
+        "pickrate": 5.6770000000000005,
+        "banrate": 2.9215
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.86500000000001,
+        "pickrate": 5.6673,
+        "banrate": 2.5128
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.56420000000001,
+        "pickrate": 5.7878,
+        "banrate": 1.8402999999999998
+      }
+    ]
+  },
+  {
+    "id": "Graves",
+    "name_ja": "グレイブス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.8853,
+        "pickrate": 9.4607,
+        "banrate": 1.5843
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.1221,
+        "pickrate": 9.2665,
+        "banrate": 1.2857
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.0464,
+        "pickrate": 9.104800000000001,
+        "banrate": 1.2684000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 47.8928,
+        "pickrate": 7.788200000000001,
+        "banrate": 0.7662
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 46.867599999999996,
+        "pickrate": 6.6275,
+        "banrate": 0.5852999999999999
+      }
+    ]
+  },
+  {
+    "id": "Kayn",
+    "name_ja": "ケイン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.880700000000004,
+        "pickrate": 5.2503,
+        "banrate": 0.41000000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.046800000000005,
+        "pickrate": 4.5723,
+        "banrate": 0.5275
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.7276,
+        "pickrate": 4.5325,
+        "banrate": 0.5524
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.020599999999995,
+        "pickrate": 4.4109,
+        "banrate": 0.4684
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 48.836400000000005,
+        "pickrate": 4.2924,
+        "banrate": 0.5089
+      }
+    ]
+  },
+  {
+    "id": "Nocturne",
+    "name_ja": "ノクターン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.861599999999996,
+        "pickrate": 2.9366,
+        "banrate": 2.291
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.3021,
+        "pickrate": 3.9924,
+        "banrate": 8.7849
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.2368,
+        "pickrate": 4.1357,
+        "banrate": 9.7277
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 50.0298,
+        "pickrate": 4.560899999999999,
+        "banrate": 14.6646
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.5693,
+        "pickrate": 4.2768,
+        "banrate": 17.1995
+      }
+    ]
+  },
+  {
+    "id": "Xinzhao",
+    "name_ja": "シン・ジャオ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.4555,
+        "pickrate": 9.5758,
+        "banrate": 1.4639
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.8949,
+        "pickrate": 10.1183,
+        "banrate": 1.6922
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 50.9342,
+        "pickrate": 10.1042,
+        "banrate": 1.7549
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.1557,
+        "pickrate": 8.7691,
+        "banrate": 1.3069000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.6544,
+        "pickrate": 9.104700000000001,
+        "banrate": 1.2144
+      }
+    ]
+  },
+  {
+    "id": "Warwick",
+    "name_ja": "ワーウィック",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.4274,
+        "pickrate": 2.8581,
+        "banrate": 0.34199999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 53.356700000000004,
+        "pickrate": 3.2163999999999997,
+        "banrate": 0.7904
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 53.269999999999996,
+        "pickrate": 3.2565999999999997,
+        "banrate": 0.8702
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 54.016299999999994,
+        "pickrate": 3.4637000000000002,
+        "banrate": 1.0732
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.696799999999996,
+        "pickrate": 4.3237,
+        "banrate": 1.4454
+      }
+    ]
+  },
+  {
+    "id": "Jarvaniv",
+    "name_ja": "ジャーヴァンⅣ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.39900000000001,
+        "pickrate": 4.1545,
+        "banrate": 0.6439
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.6721,
+        "pickrate": 6.712899999999999,
+        "banrate": 0.4484
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.735600000000005,
+        "pickrate": 6.984500000000001,
+        "banrate": 0.45459999999999995
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.0433,
+        "pickrate": 7.109500000000001,
+        "banrate": 0.36519999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.079499999999996,
+        "pickrate": 6.4434000000000005,
+        "banrate": 0.2856
+      }
+    ]
+  },
+  {
+    "id": "Hecarim",
+    "name_ja": "ヘカリム",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 50.3209,
+        "pickrate": 2.7185,
+        "banrate": 0.7206
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.9108,
+        "pickrate": 3.4236000000000004,
+        "banrate": 4.6752
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.24229999999999,
+        "pickrate": 3.5442,
+        "banrate": 5.2383
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 52.424099999999996,
+        "pickrate": 4.618,
+        "banrate": 10.553700000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 54.157,
+        "pickrate": 6.0266,
+        "banrate": 18.6792
+      }
+    ]
+  },
+  {
+    "id": "Fiddlesticks",
+    "name_ja": "フィドルスティックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 49.6652,
+        "pickrate": 3.1268,
+        "banrate": 0.30010000000000003
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 53.3872,
+        "pickrate": 3.5877,
+        "banrate": 3.1116
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 53.5883,
+        "pickrate": 3.6627,
+        "banrate": 3.5252
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 53.8393,
+        "pickrate": 4.8619,
+        "banrate": 7.577399999999999
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 54.3735,
+        "pickrate": 4.6218,
+        "banrate": 11.229
+      }
+    ]
+  },
+  {
+    "id": "Leesin",
+    "name_ja": "リー・シン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 48.758,
+        "pickrate": 13.838500000000002,
+        "banrate": 6.866
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 47.4779,
+        "pickrate": 12.771199999999999,
+        "banrate": 7.439
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 47.3434,
+        "pickrate": 12.707199999999998,
+        "banrate": 7.6891
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 47.993900000000004,
+        "pickrate": 12.8127,
+        "banrate": 8.4213
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 47.126400000000004,
+        "pickrate": 13.8513,
+        "banrate": 13.1848
+      }
+    ]
+  },
+  {
+    "id": "Olaf",
+    "name_ja": "オラフ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 48.7544,
+        "pickrate": 1.4708999999999999,
+        "banrate": 0.9544
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 51.343,
+        "pickrate": 1.5195999999999998,
+        "banrate": 0.9142000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.2359,
+        "pickrate": 1.5449,
+        "banrate": 0.9355
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 52.5535,
+        "pickrate": 1.5748000000000002,
+        "banrate": 0.9613
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 52.601200000000006,
+        "pickrate": 1.3502,
+        "banrate": 0.9740000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 52.9213,
+        "pickrate": 1.8434,
+        "banrate": 0.9740000000000001
+      }
+    ]
+  },
+  {
+    "id": "Rengar",
+    "name_ja": "レンガー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 48.6917,
+        "pickrate": 1.5337,
+        "banrate": 1.3278
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 48.680800000000005,
+        "pickrate": 1.4388,
+        "banrate": 1.0458
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.6505,
+        "pickrate": 1.4453,
+        "banrate": 1.0937000000000001
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 49.4363,
+        "pickrate": 1.6389,
+        "banrate": 1.3292
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 53.0949,
+        "pickrate": 2.2695,
+        "banrate": 2.7956000000000003
+      }
+    ]
+  },
+  {
+    "id": "Talon",
+    "name_ja": "タロン",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 48.587599999999995,
+        "pickrate": 1.5442,
+        "banrate": 0.3769
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 48.5043,
+        "pickrate": 1.6268,
+        "banrate": 0.3105
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 48.6338,
+        "pickrate": 1.6444,
+        "banrate": 0.3246
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 50.435399999999994,
+        "pickrate": 2.1839999999999997,
+        "banrate": 0.451
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.5439,
+        "pickrate": 3.9427999999999996,
+        "banrate": 0.9646
+      }
+    ]
+  },
+  {
+    "id": "Nidalee",
+    "name_ja": "ニダリー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 47.8997,
+        "pickrate": 2.7831,
+        "banrate": 1.7517999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 50.8683,
+        "pickrate": 2.8188,
+        "banrate": 2.674
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 51.3154,
+        "pickrate": 2.8341000000000003,
+        "banrate": 2.866
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 53.684799999999996,
+        "pickrate": 3.0823,
+        "banrate": 4.5788
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 55.2619,
+        "pickrate": 3.2481999999999998,
+        "banrate": 10.025599999999999
+      }
+    ]
+  },
+  {
+    "id": "Kindred",
+    "name_ja": "キンドレッド",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 47.549400000000006,
+        "pickrate": 2.0292999999999997,
+        "banrate": 0.1797
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.7014,
+        "pickrate": 1.7444000000000002,
+        "banrate": 0.164
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.681599999999996,
+        "pickrate": 1.7319999999999998,
+        "banrate": 0.1697
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.301399999999994,
+        "pickrate": 1.5868,
+        "banrate": 0.15
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.098000000000006,
+        "pickrate": 1.9900999999999998,
+        "banrate": 0.2185
+      }
+    ]
+  },
+  {
+    "id": "Khazix",
+    "name_ja": "カ＝ジックス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Emerald",
+        "winrate": 47.3928,
+        "pickrate": 5.6551,
+        "banrate": 0.3402
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 47.910599999999995,
+        "pickrate": 3.6407000000000003,
+        "banrate": 0.1724
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 47.832,
+        "pickrate": 3.4848,
+        "banrate": 0.1595
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 47.1434,
+        "pickrate": 3.0627,
+        "banrate": 0.0772
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 47.205799999999996,
+        "pickrate": 3.6868,
+        "banrate": 0.089
+      }
+    ]
+  },
+  {
+    "id": "Poppy",
+    "name_ja": "ポッピー",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.514,
+        "pickrate": 2.267,
+        "banrate": 0.2726
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.4822,
+        "pickrate": 2.4042,
+        "banrate": 0.29069999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 51.9415,
+        "pickrate": 3.0089,
+        "banrate": 0.31029999999999996
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 50.7551,
+        "pickrate": 2.8939,
+        "banrate": 0.2747
+      }
+    ]
+  },
+  {
+    "id": "Singed",
+    "name_ja": "シンジド",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Diamond",
+        "winrate": 51.434000000000005,
+        "pickrate": 1.3635,
+        "banrate": 0.2843
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Master",
+        "winrate": 51.097,
+        "pickrate": 1.4028,
+        "banrate": 0.2959
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Challenger",
+        "winrate": 50.84649999999999,
+        "pickrate": 1.8938,
+        "banrate": 0.3777
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "TOP",
+        "rank": "Legendary_rank",
+        "winrate": 54.1039,
+        "pickrate": 2.7956000000000003,
+        "banrate": 0.6884
+      }
+    ]
+  },
+  {
+    "id": "Milio",
+    "name_ja": "ミリオ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Diamond",
+        "winrate": 50.921499999999995,
+        "pickrate": 3.2446,
+        "banrate": 3.5714
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Master",
+        "winrate": 50.83879999999999,
+        "pickrate": 3.5612999999999997,
+        "banrate": 4.0006
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 50.891799999999996,
+        "pickrate": 6.7335,
+        "banrate": 7.7056
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 49.981700000000004,
+        "pickrate": 4.2753,
+        "banrate": 5.3898
+      }
+    ]
+  },
+  {
+    "id": "Gragas",
+    "name_ja": "グラガス",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Diamond",
+        "winrate": 49.199,
+        "pickrate": 1.2383,
+        "banrate": 0.1316
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Master",
+        "winrate": 49.4898,
+        "pickrate": 1.2904,
+        "banrate": 0.13829999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 51.4534,
+        "pickrate": 1.4395,
+        "banrate": 0.23579999999999998
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 49.6276,
+        "pickrate": 1.6764000000000001,
+        "banrate": 0.615
+      }
+    ]
+  },
+  {
+    "id": "Bard",
+    "name_ja": "バード",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Challenger",
+        "winrate": 49.898900000000005,
+        "pickrate": 1.0749,
+        "banrate": 0.27499999999999997
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "SUP",
+        "rank": "Legendary_rank",
+        "winrate": 46.6083,
+        "pickrate": 1.4267,
+        "banrate": 0.3293
+      }
+    ]
+  },
+  {
+    "id": "Nilah",
+    "name_ja": "ニーラ",
+    "data": [
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Challenger",
+        "winrate": 52.1069,
+        "pickrate": 1.1993,
+        "banrate": 1.3917000000000002
+      },
+      {
+        "updatetime": "2026/06/12",
+        "lane": "JG",
+        "rank": "Legendary_rank",
+        "winrate": 51.884699999999995,
+        "pickrate": 1.4079,
+        "banrate": 1.4687999999999999
+      }
+    ]
+  }
+]
